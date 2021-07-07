@@ -1,5 +1,5 @@
 ---
-title: "Algorithm"
+title: "Intermediate to Upper Intermediate"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,13 +9,13 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # course thumbnail
 image: "images/courses/course-5.jpg"
 # taxonomy
-category: "Programming"
+category: "Dutch"
 # teacher
-teacher: "Zim Cook"
+teacher: "Kitty de Vries"
 # duration
-duration : "06 Month"
+duration : "8 - 16 weeks"
 # weekly
-weekly : "03 hours"
+weekly : "2 - 6 hours"
 # course fee
 fee : "From: $699"
 # apply url

@@ -10,7 +10,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [] # disable language from here
 
 
 ############################# Plugins ##############################
@@ -199,7 +199,64 @@ url = "scholarship"
 name = "research"
 url = "research"
 
+################################### German language #####################################
+[Languages.de]
+languageName = "De"
+languageCode = "de-de"
+contentDir = "content/german"
+weight = 2
+home = "Willkommen"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
 
+
+
+################### German navigation ####################
+
+# main menu
+[[Languages.de.menu.main]]
+name = "Über Uns"
+url = "about"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Kurse"
+url = "course"
+weight = 2
+
+  
+[[Languages.de.menu.main]]
+name = "blog"
+url = "blog"
+weight = 4
+  
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+
+# footer menu
+
+[[Languages.de.menu.footer]]
+name = "teacher"
+url = "teacher"
+
+[[Languages.de.menu.footer]]
+name = "notice"
+url = "notice"
+
+[[Languages.de.menu.footer]]
+name = "event"
+url = "event"
+
+[[Languages.de.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+
+[[Languages.de.menu.footer]]
+name = "research"
+url = "research"
 
 ################################### French language #####################################
 [Languages.fr]

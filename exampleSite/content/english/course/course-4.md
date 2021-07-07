@@ -1,5 +1,5 @@
 ---
-title: "JavaScript"
+title: "Elementary to Intermediate"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -9,15 +9,15 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Programming"
+category: "Dutch"
 # teacher
-teacher: "Devid Luis"
+teacher: "Kitty de Vries"
 # duration
-duration : "06 Month"
+duration : "12 - 20 weeks"
 # weekly
-weekly : "03 hours"
+weekly : "2 - 6 hours"
 # course fee
-fee : "From: $699"
+fee : "From: $600"
 # apply url
 apply_url : "#"
 # type
