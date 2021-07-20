@@ -19,7 +19,7 @@ weekly : "1 - 6 Stunden"
 # course fee
 fee : "Ab: €36 pro Stunde"
 # apply url
-apply_url : "#"
+apply_url : "/contact"
 # type
 type: "course"
 ---

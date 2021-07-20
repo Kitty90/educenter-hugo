@@ -13,7 +13,7 @@ location: "Dhanmondi, Dhaka"
 # entry fee
 fee: "À partir de 699$"
 # apply url
-apply_url : "#"
+apply_url : "/contact"
 # event speaker
 speaker:
   # speaker loop

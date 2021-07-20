@@ -19,7 +19,7 @@ weekly : "1 - 2 hours"
 # course fee
 fee : "From: €54 per hour"
 # apply url
-apply_url : "#"
+apply_url : "/contact"
 # type
 type: "course"
 ---
