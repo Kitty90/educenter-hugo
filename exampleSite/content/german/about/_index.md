@@ -10,7 +10,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 ---
 
 
-## ABOUT OUR JOURNY
+## Wer ist Kitty? 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,

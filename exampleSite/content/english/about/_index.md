@@ -1,23 +1,41 @@
 ---
-title: "About Us"
+title: "About Kitty"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : ""
 ---
 
-## ABOUT OUR JOURNY
+## ABOUT KITTY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. I left the Netherlands in 2016 when I started working remotely for Dutch educational publishers. I have lived in Spain and Belgium and am currently living in Switzerland. Although I no longer live in the Netherlands, I frequently travel home for work, and of course to see family and friends. 
+</p>
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+### Experience
+##### 2016 - present: Kitty de Vries Language Education
+<ul> 2021 - present : Private Teacher of English and Dutch | Educational Content Developer
+    <li> 2019 - 2020 : Freelance E-learning Author English for Academic and Business Purposes for Hogeschooltaal</li>
+<ul> 2016 - 2019 : Freelance ESL Textbook Author of All Right! for Malmberg </ul>
+* 2016 - 2017 : Freelance Corporate Trainer and Translator for Eagle Productivity Solutions
+* 2016 - 2017 : Freelance Educational Author and Editor for Diaplus
+
+##### 2015 - 2016 : IB English Teacher in Training, Maartenscollege Haren
+##### 2012 - 2016 : Private Teacher of English, Dutch and French
+
+
+
+### Education
+* 2018 - 2020 MA Education for Sustainable Development, Gothenburg University
+* 2018 - 2019 MSc Digital Humanities (Educational Technology), KU Leuven
+* 2015 - 2016 English Teacher Training, University of Groningen
+* 2013 - 2014 MA Applied Linguistics - TEFL, University of Groningen
+* 2010 - 2013 BA English Language and Culture, University of Groningen
+
+
+### Certificates
+* 2021 Goethe C1 (88/100)
+* 2018 ToEFL iBT C2 (115/120)
+

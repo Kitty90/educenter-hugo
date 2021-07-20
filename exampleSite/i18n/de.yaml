@@ -1,5 +1,5 @@
 - id: read_more
-  translation: Read More
+  translation: Mehr erfahren
 
 - id: contact_form
   translation: Kontakt Formular
@@ -8,7 +8,7 @@
   translation: send message
 
 - id: contact_info
-  translation: Contact Info
+  translation: Kontaktinformationen
 
 - id: subscribe_newsletter
   translation: Subscribe Newsletter
@@ -17,7 +17,7 @@
   translation: Subscribe
 
 - id: contact_us
-  translation: Contact Us
+  translation: Kontaktieren Sie uns
 
 - id: latest_article
   translation: Latest Article
@@ -32,31 +32,31 @@
   translation: See all
 
 - id: apply_now
-  translation: Apply now
+  translation: Zur Anmeldung
 
 - id: posted_by
-  translation: Posted by
+  translation: Verfasst von
 
 - id: date
-  translation: Date
+  translation: Datum
 
 - id: time
-  translation: time
+  translation: Zeit
 
 - id: category
-  translation: Category
+  translation: Kategorie
 
 - id: related_course
   translation: Related Course
 
 - id: duration
-  translation: duration
+  translation: Dauer
 
 - id: weekly
-  translation: weekly
+  translation: Wochentlich
 
 - id: fee
-  translation: fee
+  translation: Kursgebühr
 
 - id: teacher
   translation: Lehrer
@@ -71,7 +71,7 @@
   translation: Event Speakers
 
 - id: more_event
-  translation: More Events
+  translation: Mehr Veranstaltungen
 
 - id: join
   translation: Join
@@ -83,19 +83,19 @@
   translation: company
 
 - id: links
-  translation: links
+  translation: Linke
 
 - id: courses
-  translation: Courses
+  translation: Kurse
 
 - id: new_notice
   translation: new notice
 
 - id: call
-  translation: call
+  translation: Telefon
 
 - id: email
-  translation: email
+  translation: Email
 
 - id: all
   translation: All
@@ -107,4 +107,4 @@
   translation: Our Teachers
 
 - id: download
-  translation: Download
+  translation: Herunterladen

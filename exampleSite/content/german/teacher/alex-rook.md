@@ -1,5 +1,5 @@
 ---
-title: "Alex Rook"
+title: "Kitty de Vries"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
