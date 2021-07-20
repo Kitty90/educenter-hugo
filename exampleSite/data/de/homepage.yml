@@ -33,7 +33,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Zur Anmeldung"
         link : "contact"
 
 
