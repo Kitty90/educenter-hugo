@@ -1,10 +1,10 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/backgrounds/page-title.png"
   slider_item:
     # slider item loop
-    - title : "Private or Semi-Private English or Dutch Classes"
+    - title : "Private and Semi-Private English or Dutch Classes"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"

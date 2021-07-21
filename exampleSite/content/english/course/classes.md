@@ -1,5 +1,5 @@
 ---
-title: "Private / Duo: General Language Classes"
+title: "Private / Duo: General Language Skills"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Bespoke private or semi-private classes with the greatest flexibility."
 # course thumbnail
-image: "images/courses/nlukflag.png"
+image: "images/courses/privateclass.jpg"
 # taxonomy
 category: "Dutch or English"
 # teacher

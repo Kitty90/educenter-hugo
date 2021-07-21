@@ -1,15 +1,15 @@
 ---
-title: "Private: English for Academic or Business Purposes"
+title: "Private: Academic or Business Communication"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/course/business.png"
 # meta description
 description : "Individualized task-based instruction for language use in professional or academic contexts"
 # course thumbnail
-image: "images/courses/globe.png"
+image: "images/courses/nl-business.png"
 # taxonomy
-category: "English"
+category: "Dutch or English"
 # teacher
 teacher: "Kitty de Vries"
 # duration
@@ -40,8 +40,8 @@ I have developed course material for academic and business language use (levels 
 
 ### Hourly rates
 
-| | | 
+| |private class| 
 |---|---|
-|  1 hour | €60 |
+|  individual 60-minute class | €60 |
 |  5-class package | €285 |
 |  10-class package | €540 |

@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "We offer general Dutch courses at all language levels; from true beginners (CEFR A0) to proficient users (CEFR C2). In general language courses, we practice the key language skills (listening, reading, speaking, writing, grammar, spelling and pronunciation) in realistic contexts that correspond to your desired language level."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/groupcourse.jpg"
 # taxonomy
 category: "Dutch"
 # teacher
