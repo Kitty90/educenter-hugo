@@ -7,7 +7,7 @@ bg_image: "images/course/business.png"
 # meta description
 description : "Individualized task-based instruction for language use in professional or academic contexts"
 # course thumbnail
-image: "images/courses/nl-business.png"
+image: "images/courses/business.png"
 # taxonomy
 category: "Dutch or English"
 # teacher

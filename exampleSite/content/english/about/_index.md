@@ -2,29 +2,28 @@
 title: "About Kitty"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/about/about-page.png"
 # about image
-image: "images/about/about-page.jpg"
+image: "images/about/about-page.png"
 # meta description
 description : ""
 ---
 
 ## ABOUT KITTY
 
-I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. I left the Netherlands in 2016 when I started working remotely for Dutch educational publishers. I have lived in Spain and Belgium and am currently living in Switzerland. Although I no longer live in the Netherlands, I frequently travel home for work, and of course to see family and friends. 
-</p>
+I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. After having obtained my degrees in English and Language Teaching, I worked as a secondary English teacher in the Netherlands. However, in 2016 I left the Netherlands when I started working remotely for Dutch educational publishers. Since then, I have lived in Spain and Belgium and now live in Switzerland. Although I no longer live in the Netherlands, I frequently travel home for work, and of course to see family and friends. 
 
-### Experience
-##### 2016 - present: Kitty de Vries Language Education
-<ul> 2021 - present : Private Teacher of English and Dutch | Educational Content Developer
-    <li> 2019 - 2020 : Freelance E-learning Author English for Academic and Business Purposes for Hogeschooltaal</li>
-<ul> 2016 - 2019 : Freelance ESL Textbook Author of All Right! for Malmberg </ul>
-* 2016 - 2017 : Freelance Corporate Trainer and Translator for Eagle Productivity Solutions
-* 2016 - 2017 : Freelance Educational Author and Editor for Diaplus
+### Experience:
+I have almost 10 years of professional experience in language education:
 
-##### 2015 - 2016 : IB English Teacher in Training, Maartenscollege Haren
-##### 2012 - 2016 : Private Teacher of English, Dutch and French
-
+* 2016 - present: Kitty de Vries Language Education
+    - 2021 - present : Private Teacher of English and Dutch | Educational Content Developer
+    - 2019 - 2020 : Freelance E-learning Author English for Academic and Business Purposes for Hogeschooltaal
+    - 2016 - 2019 : Freelance ESL Textbook Author of All Right! for Malmberg
+    - 2016 - 2017 : Freelance Corporate Trainer and Translator for Eagle Productivity Solutions
+    - 2016 - 2017 : Freelance Educational Author and Editor for Diaplus
+- 2015 - 2016 : IB English Teacher in Training, Maartenscollege Haren
+- 2012 - 2016 : Private Teacher of English, Dutch and French  
 
 
 ### Education
@@ -36,6 +35,6 @@ I come from a tiny town in the Dutch countryside, but have always been intrigued
 
 
 ### Certificates
-* 2021 Goethe C1 (88/100)
-* 2018 ToEFL iBT C2 (115/120)
+* 2021 Goethe C1 German (score: 88/100)
+* 2018 ToEFL iBT C2 English (score: 115/120)
 

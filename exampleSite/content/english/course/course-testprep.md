@@ -32,8 +32,7 @@ Are you planning to take an official language exam? These bespoke classes are de
 Test prep lessons focus specifically on honing the skills you need to pass the exam. To determine which topics or skills require practice, you will be asked to do a mock test before the first lesson. We will focus on the language tasks (reading, listening, speaking, writing) you need to improve to pass the exam, and will revisit challenging grammar topics when necessary. 
 
 You will familiarize yourself with the format of the exam during our lessons, as we will work with:
-- practice exams 
-    - Dutch: CNaVT / Staatsexamen NT2 I or II / Inburgeringsexamen
+- practice exams  
 - learning materials developed for exam practice
 
 </p>
