@@ -62,10 +62,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Kitty de Vries Language Education"
+  title : "About Kitty de Vries"
   image : "images/about/about.jpg"
-  content : "I offer Dutch and English language classes. In addition,
-  I am an author and editor of educational content."
+  content : "An avid language learner gone teacher, author and editor."
   button:
     enable : true
     label : "Learn more"
@@ -89,18 +88,18 @@ cta:
     link : "contact"
 
 
-######################## Success story #############################
-success_story:
-  enable : false
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+# ######################## Success story #############################
+# success_story:
+#   enable : false
+#   bg_image : "images/backgrounds/success-story.jpg"
+#   title : "Success Stories"
+#   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
             
             
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+#   ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+#   dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+#   # video link
+#   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################

@@ -26,10 +26,10 @@ type: "course"
 
 
 ### About Private Classes:
-If you are looking for maximum flexibility and personalized instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor-made, designed with your interests in mind. 
+If you are looking for maximum flexibility and personalized instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor made; designed with your interests and calendar in mind. 
 
 ### Teaching Method and Materials:
-Private classes are highly individualized; during your first class we will discuss and determine your learning goals, style and needs. Based on this information, we will develop a bespoke learning plan to help you achieve your goals.
+Private classes are highly individualized, since different learners have different needs and interests. During your first class we will discuss and determine your learning goals, style and needs. Perhaps you would like to study more grammar? Or maybe you would benefit from a more communication-oriented teahcing style? After the introductory lesson, we will develop a bespoke learning plan to help you achieve your goals.
 
 #### Duo classes:
 Do you know someone who is also looking to improve their Dutch or English? If you are at approximately the same language level, you have the option to take classes together at discounted rates. 

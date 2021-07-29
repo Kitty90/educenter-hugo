@@ -7,9 +7,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Massgeschneideter Privatunterricht mit der grössten Flexibilität."
 # course thumbnail
-image: "images/courses/course-3.jpg"
+image: "images/courses/privateclass.jpg"
 # taxonomy
-category: "Niederländisch"
+category: "Niederländisch oder Englisch"
 # teacher
 teacher: "Kitty de Vries"
 # duration
@@ -19,7 +19,7 @@ weekly : "1 - 6 Stunden"
 # course fee
 fee : "Ab: €36 pro Stunde"
 # apply url
-apply_url : "/contact"
+apply_url : "/de/contact"
 # type
 type: "course"
 ---

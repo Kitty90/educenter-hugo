@@ -1,0 +1,97 @@
+################################### German language #####################################
+
+
+################### German navigation ####################
+
+# main menu
+[[Languages.de.menu.main]]
+name = "Über Uns"
+url = "about"
+weight = 1
+
+[[Languages.de.menu.main]]
+name = "Kurse"
+url = "course"
+weight = 2
+
+  
+[[Languages.de.menu.main]]
+name = "Kontakt"
+url = "contact"
+weight = 5
+
+
+# footer menu
+
+[[Languages.de.menu.footer]]
+name = "teacher"
+url = "teacher"
+
+[[Languages.de.menu.footer]]
+name = "notice"
+url = "notice"
+
+[[Languages.de.menu.footer]]
+name = "event"
+url = "event"
+
+[[Languages.de.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+
+[[Languages.de.menu.footer]]
+name = "research"
+url = "research"
+
+################################### French language #####################################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
+
+
+################### French navigation ####################
+
+# main menu
+[[Languages.fr.menu.main]]
+name = "À propos"
+url = "about"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "Cours"
+url = "course"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+
+# footer menu
+
+[[Languages.fr.menu.footer]]
+name = "teacher"
+url = "teacher"
+
+[[Languages.fr.menu.footer]]
+name = "notice"
+url = "notice"
+
+[[Languages.fr.menu.footer]]
+name = "event"
+url = "event"
+
+[[Languages.fr.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+
+[[Languages.fr.menu.footer]]
+name = "research"
+url = "research"

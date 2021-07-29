@@ -1,5 +1,5 @@
 ---
-title: "Englisch oder Niederländisch Online Kurse und Privatunterricht"
+title: "Englisch oder Niederländisch Kurse und Privatunterricht"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

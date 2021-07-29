@@ -4,7 +4,7 @@ slider:
   bg_image : "images/backgrounds/page-title.png"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission [GERMAN]"
+    - title : "Private Online Englisch oder Niederländisch Kurse."
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"

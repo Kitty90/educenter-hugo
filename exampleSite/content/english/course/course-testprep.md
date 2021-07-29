@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Individualized instruction to best prepare for official Dutch or English exams."
+description : "Individualized instruction to prepare for official Dutch or English exams."
 # course thumbnail
 image: "images/courses/exam.jpg"
 # taxonomy
@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 2 hours"
 # course fee
-fee : "Ab: €54 per hour"
+fee : "From: €54 per hour"
 # apply url
 apply_url : "/contact"
 # type

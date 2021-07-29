@@ -49,9 +49,8 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Zug, Switzerland"
+email = "devrieskitty@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -91,24 +90,14 @@ icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "www.linkedin.com/in/kittydevries1"
 
 
 ################################### English language #####################################
@@ -165,109 +154,3 @@ url = "scholarship"
 name = "research"
 url = "research"
 
-################################### German language #####################################
-[Languages.de]
-languageName = "De"
-languageCode = "de-de"
-contentDir = "content/german"
-weight = 2
-home = "Willkommen"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-
-################### German navigation ####################
-
-# main menu
-[[Languages.de.menu.main]]
-name = "Über Uns"
-url = "about"
-weight = 1
-
-[[Languages.de.menu.main]]
-name = "Kurse"
-url = "course"
-weight = 2
-
-  
-[[Languages.de.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
-
-
-# footer menu
-
-[[Languages.de.menu.footer]]
-name = "teacher"
-url = "teacher"
-
-[[Languages.de.menu.footer]]
-name = "notice"
-url = "notice"
-
-[[Languages.de.menu.footer]]
-name = "event"
-url = "event"
-
-[[Languages.de.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-
-[[Languages.de.menu.footer]]
-name = "research"
-url = "research"
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-
-################### French navigation ####################
-
-# main menu
-[[Languages.fr.menu.main]]
-name = "À propos"
-url = "about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "Cours"
-url = "course"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "Contact"
-url = "contact"
-weight = 5
-
-
-# footer menu
-
-[[Languages.fr.menu.footer]]
-name = "teacher"
-url = "teacher"
-
-[[Languages.fr.menu.footer]]
-name = "notice"
-url = "notice"
-
-[[Languages.fr.menu.footer]]
-name = "event"
-url = "event"
-
-[[Languages.fr.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-
-[[Languages.fr.menu.footer]]
-name = "research"
-url = "research"

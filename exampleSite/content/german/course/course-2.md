@@ -1,5 +1,5 @@
 ---
-title: "Niederländisch - private Prüfunsvorbereitung"
+title: "Private Prüfunsvorbereitung"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,9 +7,9 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Individualisierter Unterricht zur Vorbereitung der Inburgering-, NT2 oder CNaVT Prüfung."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/exam.jpg"
 # taxonomy
-category: "Dutch"
+category: "Niederländisch oder Englisch"
 # teacher
 teacher: "Kitty de Vries"
 # duration
@@ -19,7 +19,7 @@ weekly : "1 - 2 Stunden"
 # course fee
 fee : "Ab: €54 pro Stunde"
 # apply url
-apply_url : "/contact"
+apply_url : "/de/contact"
 # type
 type: "course"
 ---
