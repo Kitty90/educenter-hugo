@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://filteredsnippets.com/teaching"
+baseURL = "http://filteredsnippets.com/teaching_site"
 title = "Kitty de Vries Language Education"
 theme = "educenter-hugo"
 themesDir = "../.."
