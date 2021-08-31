@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Individualized instruction to prepare for official Dutch or English exams."
+description : "Individualized classes to best prepare for official Dutch or English exams."
 # course thumbnail
 image: "images/courses/exam.jpg"
 # taxonomy
@@ -39,8 +39,8 @@ You will familiarize yourself with the format of the exam during our lessons, as
 
 ### Rates
 
-| class type |rate|
+| |private |
 |---|---|
-|  1 hour class | €60 | 
-|  5-class package | €285 |
-|  10-class package | €540 |
+|  individual 60-minute class | €50 |
+|  5-class package (__5% discount__) | ~~€250~~ __€237.50__ | 
+|  10-class package (__10% discount__) | ~~€500~~ __€450__ |

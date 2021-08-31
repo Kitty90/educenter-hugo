@@ -33,7 +33,7 @@
           <ul class="list-unstyled">
             <li class="mb-4">{{ site.Params.address | markdownify }}</li>
             <li class="mb-4">{{ site.Params.email | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
+            <!-- <li class="mb-4">{{ site.Params.mobile | markdownify }}</li> -->
           </ul>
         </div>
         <!-- company -->
@@ -97,9 +97,11 @@
 </footer>
 <!-- /footer -->
 
+{{ if site.Params.map.enable }}
 {{ "<!-- Google Map API -->" | safeHTML }}
 {{ with site.Params.map.gmap_api }}
 <script src="{{ . | safeURL }}"></script>
+{{ end }}
 {{ end }}
 
 {{ "<!-- JS Plugins -->" | safeHTML }}

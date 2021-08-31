@@ -4,7 +4,7 @@ slider:
   bg_image : "images/backgrounds/page-title.png"
   slider_item:
     # slider item loop
-    - title : "Private and Semi-Private English or Dutch Classes"
+    - title : "Private English or Dutch Classes"
       content : "Bespoke Dutch or English lessons for all language levels (A0-C2) with maximum flexibility."
       animation_in : "left"
       animation_out : "right"
@@ -64,7 +64,7 @@ about:
   enable : true
   title : "About Kitty de Vries"
   image : "images/about/about.jpg"
-  content : "An avid language learner gone teacher, author and editor."
+  content : ""
   button:
     enable : true
     label : "Learn more"

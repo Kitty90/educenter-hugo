@@ -4,5 +4,5 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "I teach general and specific English and Dutch classes online. Click on the class types for more information."
+description : "I teach general and specialized English and Dutch classes online. Click on the class types for more information."
 ---

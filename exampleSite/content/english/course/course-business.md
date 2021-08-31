@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/course/business.png"
 # meta description
-description : "Individualized task-based instruction for language use in professional or academic contexts"
+description : "Tailor-made task-based instruction for language use in professional or academic contexts"
 # course thumbnail
 image: "images/courses/business.png"
 # taxonomy
@@ -40,8 +40,8 @@ I have developed course material for academic and business language use (levels 
 
 ### Hourly rates
 
-| |private class| 
+| |private |
 |---|---|
-|  individual 60-minute class | €60 |
-|  5-class package | €285 |
-|  10-class package | €540 |
+|  individual 60-minute class | €50 |
+|  5-class package (__5% discount__) | ~~€250~~ __€237.50__ | 
+|  10-class package (__10% discount__) | ~~€500~~ __€450__ |

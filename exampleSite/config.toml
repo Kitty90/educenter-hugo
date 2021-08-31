@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+baseURL = "http://filteredsnippets.com/teaching"
+title = "Kitty de Vries Language Education"
 theme = "educenter-hugo"
 themesDir = "../.."
 # post pagination
@@ -8,10 +8,13 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
+# disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
 
+## Allow raw html
+[markup.goldmark.renderer]
+unsafe= true
 
 ############################# Plugins ##############################
 
@@ -51,6 +54,7 @@ author = "Themefisher"
 # contact info
 address = "Zug, Switzerland"
 email = "devrieskitty@gmail.com"
+mobile = "+34684273479"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -72,7 +76,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -121,7 +125,7 @@ url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "courses"
+name = "Courses"
 url = "course"
 weight = 2
 
