@@ -92,19 +92,9 @@ expire_days = 2
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "www.linkedin.com/in/kittydevries1"
+link = "http://www.linkedin.com/in/kittydevries1"
 
 
 ################################### English language #####################################
