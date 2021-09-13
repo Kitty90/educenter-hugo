@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "www.kittydevries.com"
+baseURL = "https://www.kittydevries.com"
 title = "Kitty de Vries Language Education"
 theme = "educenter-hugo"
 themesDir = "../.."
