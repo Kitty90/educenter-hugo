@@ -15,9 +15,9 @@ teacher: "Kitty de Vries"
 # duration
 duration : "1 - 10 weeks"
 # weekly
-weekly : "1 - 6 hours"
+weekly : "1 - 6 lessons"
 # course fee
-fee : "From: €45 per hour"
+fee : "From: €35 per lesson"
 # apply url
 apply_url : "/contact"
 # type
@@ -37,8 +37,8 @@ Private classes are highly individualized, since different learners have differe
 
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
-|  individual class | €50 | €37,50|
-|  5-class package (__5% discount__) | ~~€250~~ __€237.50__ | ~~€187,50~~ __€178,13__|
-|  10-class package (__7.5% discount__) | ~~€500~~ __€462,50__ | ~~€375~~ __€346,88__|
+|  individual class | €50 / CHF54.50 | €37,50 / CHF41|
+|  5-class package (__5% discount__) | ~~€250 / CHF272.50~~ __€237.50 / CHF259__ | ~~€187,50 / CHF205~~ __€178,13 / CHF194,75__|
+|  10-class package (__7.5% discount__) | ~~€500 / CHF545~~ __€462,50 / CHF517.75__ | ~~€375 / CHF410~~ __€346,88 / CHF379.25__|
 
 

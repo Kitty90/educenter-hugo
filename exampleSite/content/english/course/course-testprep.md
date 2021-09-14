@@ -15,9 +15,9 @@ teacher: "Kitty de Vries"
 # duration
 duration : "1 - 10 weeks"
 # weekly
-weekly : "1 - 2 hours"
+weekly : "1 - 2 lessons"
 # course fee
-fee : "From: €45 per hour"
+fee : "From: €38 per lesson"
 # apply url
 apply_url : "/contact"
 # type
@@ -41,6 +41,6 @@ You will familiarize yourself with the format of the exam during our lessons, as
 
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
-|  individual class | €50 | €37,50|
-|  5-class package (__5% discount__) | ~~€250~~ __€237.50__ | ~~€187,50~~ __€178,13__|
-|  10-class package (__7.5% discount__) | ~~€500~~ __€462,50__ | ~~€375~~ __€346,88__|
+|  individual class | €55 / CHF60 | €41,25 / CHF45|
+|  5-class package (__5% discount__) | ~~€275 / CHF300~~ __€261.25 / CHF285__ | ~~€206,25 / CHF225~~ __€195,94 / CHF213.75__|
+|  10-class package (__7.5% discount__) | ~~€550 / CHF600~~ __€462,50 / CHF555__ | ~~€410,25 / CHF450~~ __€381,56 / CHF416.25__|
