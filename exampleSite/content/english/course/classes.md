@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 6 lessons"
 # course fee
-fee : "From: €35 per lesson"
+fee : "From: €35 per class"
 # apply url
 apply_url : "/contact"
 # type
