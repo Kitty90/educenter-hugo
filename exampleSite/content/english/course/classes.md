@@ -35,10 +35,10 @@ Private classes are highly individualized, since different learners have differe
 
 ### Hourly rates
 
-| |private |
-|---|---|
-|  individual 60-minute class | €50 |
-|  5-class package (__5% discount__) | ~~€250~~ __€237.50__ | 
-|  10-class package (__10% discount__) | ~~€500~~ __€450__ |
+| |private 60-minute lesson| private 45-minute lesson |
+|---|---|---|
+|  individual class | €50 | €37,50|
+|  5-class package (__5% discount__) | ~~€250~~ __€237.50__ | ~~€187,50~~ __€178,13__|
+|  10-class package (__7.5% discount__) | ~~€500~~ __€462,50__ | ~~€375~~ __€346,88__|
 
 
