@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 2 hours"
 # course fee
-fee : "From: €54 per hour"
+fee : "From: €45 per hour"
 # apply url
 apply_url : "/contact"
 # type
