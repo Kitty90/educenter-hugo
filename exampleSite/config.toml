@@ -56,7 +56,7 @@ description = "This is meta description"
 author = "Themefisher"
 # contact info
 address = "Zug, Switzerland"
-email = "devrieskitty@gmail.com"
+email = "devrieskitty+t@gmail.com"
 mobile = "+34684273479"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
