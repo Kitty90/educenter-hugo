@@ -43,5 +43,6 @@ I have developed course material for academic and business language use (levels 
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
 |  individual class | €55 / CHF60 | €41,25 / CHF45|
-|  5-class package (__5% discount__) | ~~€275 / CHF300~~ __€261.25 / CHF285__ | ~~€206,25 / CHF225~~ __€195,94 / CHF213.75__|
-|  10-class package (__7.5% discount__) | ~~€550 / CHF600~~ __€462,50 / CHF555__ | ~~€410,25 / CHF450~~ __€381,56 / CHF416.25__|
+|  5-class package (__5% discount__) | ~~€275 / CHF300~~ __€261,25 / CHF285__ | ~~€206,25 / CHF225~~ __€195,94,- / CHF213,75__|
+|  10-class package (__7% discount__) | ~~€550 / CHF600~~ __€511,50 / CHF558__ | ~~€410,25 / CHF450~~ __€381,53 / CHF418,50__|
+
