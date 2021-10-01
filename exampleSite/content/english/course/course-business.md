@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 2 lessons"
 # course fee
-fee : "From: €38 per class"
+fee : "From: €42 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -42,7 +42,6 @@ I have developed course material for academic and business language use (levels 
 
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
-|  individual class | €55 / CHF60 | €41,25 / CHF45|
-|  5-class package (__5% discount__) | ~~€275 / CHF300~~ __€261,25 / CHF285__ | ~~€206,25 / CHF225~~ __€195,94,- / CHF213,75__|
-|  10-class package (__7% discount__) | ~~€550 / CHF600~~ __€511,50 / CHF558__ | ~~€410,25 / CHF450~~ __€381,53 / CHF418,50__|
-
+|  individual class | €60 / CHF65 | €45 / CHF48,75|
+|  5-class package (__5% discount__) | ~~€300 / CHF325~~ __€285 / CHF308.75__ | ~~€225 / CHF243.75~~ __€213.75 / CHF231.50__|
+|  10-class package (__7% discount__) | ~~€600/ CHF650~~ __€558 / CHF604.50__ | ~~€450 / CHF487.50~~ __€418,50 / CHF453.38__|

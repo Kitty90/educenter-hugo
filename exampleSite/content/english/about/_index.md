@@ -9,10 +9,11 @@ bg_image: "images/about/about-page.png"
 description : ""
 ---
 
-## ABOUT KITTY
-I am an avid language learner and an experienced language teacher and textbook author with an academic background in English (BA), Language Teaching (MA), Educational Technology (MSc) and Education for Sustainable Development.
+## <img height=200px src=/images/about/kitty.jpeg> ABOUT KITTY 
+I am an avid language learner, an experienced language teacher and textbook author. My academic background is in English Literature and Linguistics (BA), Language Teaching (MA), Educational Technology (MSc) and Education for Sustainable Development.
 
 I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. After having obtained my degrees in English and Language Teaching, I worked as a secondary English teacher in the Netherlands. However, I moved to Spain in 2016 when I started working remotely for Dutch educational publishers. Eager to learn more about educational technology, I moved to Belgium in 2018 to pursue another master's degree at KU Leuven. I now live in Switzerland, working remotely as a language teacher and educational content developer. Although I no longer live in the Netherlands, I regularly travel home for work, and to see family and friends. 
+
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -28,6 +29,7 @@ I come from a tiny town in the Dutch countryside, but have always been intrigued
 
 
 ## EDUCATION
+2021 - present : BA Chinese, Dalarna University   
 2018 - 2020 : MA Education for Sustainable Development, Gothenburg University  
 2018 - 2019 : MSc Digital Humanities (Educational Technology), KU Leuven  
 2015 - 2016 : English Teacher Training, University of Groningen  

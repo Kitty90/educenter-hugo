@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 2 lessons"
 # course fee
-fee : "From: €38 per class"
+fee : "From: €42 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -28,19 +28,24 @@ type: "course"
 ### About Test Preparation:
 Are you planning to take an official language exam? These bespoke classes are designed specifically for test preparation. I offer language guidance and lesson content tailored to your individual needs. In these lessons, you will familiarize yourself with the necessary strategies, contexts and skills that are tested in the exam.
 
+I can help you prepare for the following exams:
+Dutch: Inburgeringsexamen, Staatsexamen I / II, CNaVT
+English: TOEFL, Cambridge, Trinity  
+
 ### Teaching Method and Materials:
-Test prep lessons focus specifically on honing the skills you need to pass the exam. To determine which topics or skills require practice, you will be asked to do a mock test before the first lesson. We will focus on the language tasks (reading, listening, speaking, writing) you need to improve to pass the exam, and will revisit challenging grammar topics when necessary. 
+Test preparation lessons focus specifically on honing the skills you need to pass a particular language exam. To determine which topics or skills require practice, you will be asked to do a mock test before the first lesson. We will focus on the language tasks (reading, listening, speaking, writing) you need to improve to pass the exam, and will revisit challenging grammar topics when necessary. Note, however, that test preparation lessons are not like regular language classes: you are expected to have studied the level specific grammar topics and skills in the past. 
 
-You will familiarize yourself with the format of the exam during our lessons, as we will work with:
+During our lessons, you will familiarize yourself with the format of the exam, as we will work with:
 - practice exams  
-- learning materials developed for exam practice
+- learning materials about language strategies developed for exam practice
 
+After class, you will do the writing, reading and listening tasks of the official mock exams. Your answers will be checked and graded before the next class, in which we'll discuss your progress. 
 </p>
 
 ### Rates
 
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
-|  individual class | €55 / CHF60 | €41,25 / CHF45|
-|  5-class package (__5% discount__) | ~~€275 / CHF300~~ __€261,25 / CHF285__ | ~~€206,25 / CHF225~~ __€195,94,- / CHF213,75__|
-|  10-class package (__7% discount__) | ~~€550 / CHF600~~ __€511,50 / CHF558__ | ~~€410,25 / CHF450~~ __€381,53 / CHF418,50__|
+|  individual class | €60 / CHF65 | €45 / CHF48,75|
+|  5-class package (__5% discount__) | ~~€300 / CHF325~~ __€285 / CHF308.75__ | ~~€225 / CHF243.75~~ __€213.75 / CHF231.50__|
+|  10-class package (__7% discount__) | ~~€600/ CHF650~~ __€558 / CHF604.50__ | ~~€450 / CHF487.50~~ __€418,50 / CHF453.38__|
