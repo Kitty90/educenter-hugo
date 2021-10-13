@@ -41,4 +41,4 @@ Private classes are highly individualized, since different learners have differe
 |  5-class package (__5% discount__) | ~~€250 / CHF272,50~~ __€237,50 / CHF258,88__ | ~~€187,50 / CHF205~~ __€178,13 / CHF194,75__|
 |  10-class package (__7% discount__) | ~~€500 / CHF545~~ __€465 / CHF506,85__ | ~~€375 / CHF410~~ __€348,75 / CHF381,30__|
 
-
+### Availability

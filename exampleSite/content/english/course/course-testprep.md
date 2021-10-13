@@ -49,3 +49,6 @@ After class, you will do the writing, reading and listening tasks of the officia
 |  individual class | €60 / CHF65 | €45 / CHF48,75|
 |  5-class package (__5% discount__) | ~~€300 / CHF325~~ __€285 / CHF308.75__ | ~~€225 / CHF243.75~~ __€213.75 / CHF231.50__|
 |  10-class package (__7% discount__) | ~~€600/ CHF650~~ __€558 / CHF604.50__ | ~~€450 / CHF487.50~~ __€418,50 / CHF453.38__|
+
+### Availability
+<iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
