@@ -62,19 +62,19 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Kitty de Vries"
+  title : "Over Kitty de Vries"
   image : "images/about/about.jpg"
   content : ""
   button:
     enable : true
-    label : "Learn more"
+    label : "Meer info"
     link : "about"
 
 
 ############################# Course ################################
 course:
   enable : true
-  title : "Courses and Classes"
+  title : "Cursussen"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################

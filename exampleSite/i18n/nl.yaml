@@ -2,16 +2,16 @@
   translation: Meer info
 
 - id: contact_form
-  translation: Contact Formulier
+  translation: Contactformulier
 
 - id: send
-  translation: send message
+  translation: bericht versturen
 
 - id: contact_info
   translation: Contact Info
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Nieuwsbrief
 
 - id: subscribe
   translation: Subscribe
@@ -29,22 +29,22 @@
   translation: Tags
 
 - id: see_all
-  translation: See all
+  translation: Alle cursussen
 
 - id: apply_now
   translation: Inschrijven
 
 - id: posted_by
-  translation: Posted by
+  translation: Geschreven door
 
 - id: date
-  translation: Date
+  translation: Datum
 
 - id: time
-  translation: time
+  translation: tijd
 
 - id: category
-  translation: Category
+  translation: Categorie
 
 - id: related_course
   translation: Andere cursussen
@@ -92,13 +92,13 @@
   translation: new notice
 
 - id: call
-  translation: call
+  translation: bellen
 
 - id: email
-  translation: email
+  translation: e-mail versturen
 
 - id: all
-  translation: All
+  translation: Alle
 
 - id: interest
   translation: SUMMARY OF ACTIVITIES/INTERESTS
@@ -107,4 +107,4 @@
   translation: Our Teachers
 
 - id: download
-  translation: Download
+  translation: Downloaden
