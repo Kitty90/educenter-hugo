@@ -39,7 +39,7 @@ Private classes are highly individualized, since different learners have differe
 |---|---|---|
 |  individual class | €50 / CHF54.50 | €37,50 / CHF41|
 |  5-class package (__3% discount__) | __€242,50 / CHF264__ | __€181,88 / CHF198__|
-|  10-class package (__5% discount__) | __€475 / CHF517,75__ | __€348,75 / CHF388,30__|
+|  10-class package (__5% discount__) | __€475 / CHF517,75__ | __€356,25 / CHF389,50__|
 
 ### Availability
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
