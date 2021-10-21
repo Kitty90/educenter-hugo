@@ -33,7 +33,7 @@ Dutch: Inburgeringsexamen, Staatsexamen I / II, CNaVT
 English: TOEFL, Cambridge, Trinity  
 
 ### Teaching Method and Materials:
-Test preparation lessons focus specifically on honing the skills you need to pass a particular language exam. To determine which topics or skills require practice, you will be asked to do a mock test before the first lesson. We will focus on the language tasks (reading, listening, speaking, writing) you need to improve to pass the exam, and will revisit challenging grammar topics when necessary. Note, however, that test preparation lessons are not like regular language classes: you are expected to have studied the level specific grammar topics and skills in the past. 
+Test preparation lessons focus specifically on honing the skills you need to pass a particular language exam. To determine which topics or skills require practice, you will be asked to do a mock test before the first lesson. We will focus on the language tasks (reading, listening, speaking, writing) you need to improve to pass the exam, and will revisit challenging grammar topics when necessary. Note, however, that test preparation lessons are not like regular language classes: you are expected to have studied the level-specific grammar topics and skills in the past. 
 
 During our lessons, you will familiarize yourself with the format of the exam, as we will work with:
 - practice exams  
@@ -47,8 +47,8 @@ After class, you will do the writing, reading and listening tasks of the officia
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
 |  individual class | €60 / CHF65 | €45 / CHF48,75|
-|  5-class package (__5% discount__) | ~~€300 / CHF325~~ __€285 / CHF308.75__ | ~~€225 / CHF243.75~~ __€213.75 / CHF231.50__|
-|  10-class package (__7% discount__) | ~~€600/ CHF650~~ __€558 / CHF604.50__ | ~~€450 / CHF487.50~~ __€418,50 / CHF453.38__|
+|  5-class package (__3% discount__) | __€291 / CHF315.25__ | __€218.25 / CHF236.44__|
+|  10-class package (__5% discount__) | __€570 / CHF717.50__ | __€418,50 / CHF463.13__|
 
 ### Availability
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

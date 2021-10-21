@@ -151,3 +151,57 @@ url = "scholarship"
 name = "research"
 url = "research"
 
+################################### Dutch language #####################################
+[Languages.nl]
+languageName = "NL"
+languageCode = "nl"
+contentDir = "content/dutch"
+weight = 1
+home = "Home"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
+
+
+################### Dutch navigation ####################
+
+# main menu
+[[Languages.nl.menu.main]]
+name = "Over"
+url = "about"
+weight = 1
+
+[[Languages.nl.menu.main]]
+name = "cursussen"
+url = "course"
+weight = 2
+
+  
+[[Languages.nl.menu.main]]
+name = "Contact"
+url = "contact"
+weight = 5
+
+
+# footer menu
+
+[[Languages.nl.menu.footer]]
+name = "teacher"
+url = "teacher"
+
+[[Languages.nl.menu.footer]]
+name = "notice"
+url = "notice"
+
+[[Languages.nl.menu.footer]]
+name = "event"
+url = "event"
+
+[[Languages.nl.menu.footer]]
+name = "scholarship"
+url = "scholarship"
+
+[[Languages.nl.menu.footer]]
+name = "research"
+url = "research"
+

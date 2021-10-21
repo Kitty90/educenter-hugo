@@ -1,0 +1,110 @@
+- id: read_more
+  translation: Meer info
+
+- id: contact_form
+  translation: Contact Formulier
+
+- id: send
+  translation: send message
+
+- id: contact_info
+  translation: Contact Info
+
+- id: subscribe_newsletter
+  translation: Subscribe Newsletter
+
+- id: subscribe
+  translation: Subscribe
+
+- id: contact_us
+  translation: Contact Kitty
+
+- id: latest_article
+  translation: Latest Article
+
+- id: categories
+  translation: Categorieën
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: See all
+
+- id: apply_now
+  translation: Inschrijven
+
+- id: posted_by
+  translation: Posted by
+
+- id: date
+  translation: Date
+
+- id: time
+  translation: time
+
+- id: category
+  translation: Category
+
+- id: related_course
+  translation: Andere cursussen
+
+- id: duration
+  translation: duur
+
+- id: weekly
+  translation: wekelijks
+
+- id: fee
+  translation: tarief
+
+- id: teacher
+  translation: docent
+
+- id: location
+  translation: locatie
+
+- id: entry_fee
+  translation: entree 
+
+- id: event_speaker
+  translation: Sprekers
+
+- id: more_event
+  translation: Meer evenementen
+
+- id: join
+  translation: Join
+  
+- id: enter_email
+  translation: Vul uw e-mailadres in…
+
+- id: company
+  translation: bedrijf
+
+- id: links
+  translation: links
+
+- id: courses
+  translation: Cursussen
+
+- id: new_notice
+  translation: new notice
+
+- id: call
+  translation: call
+
+- id: email
+  translation: email
+
+- id: all
+  translation: All
+
+- id: interest
+  translation: SUMMARY OF ACTIVITIES/INTERESTS
+
+- id: our_teachers
+  translation: Our Teachers
+
+- id: download
+  translation: Download

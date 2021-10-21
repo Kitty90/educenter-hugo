@@ -29,16 +29,17 @@ type: "course"
 If you are looking for maximum flexibility and personalized instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor made; designed with your interests and calendar in mind. 
 
 ### Teaching Method and Materials:
-Private classes are highly individualized, since different learners have different needs and interests. During your first class we will discuss and determine your learning goals, style and needs. Perhaps you would like to study more grammar? Or maybe you would benefit more from a communication-oriented teaching style? After the introductory lesson, we will develop a bespoke learning plan to help you achieve your goals.
+Private classes are highly individualized, since different learners have different needs and interests. During your first class we will discuss and determine your learning goals, style and needs. Perhaps you enjoy a structured and grammar rule-based approach? Or would you prefer a communication-oriented teaching style? After the introductory lesson, we will develop a bespoke learning plan to help you achieve your goals.
 
 </p>
 
-### Hourly rates
+### Rates
 
 | |private 60-minute lesson| private 45-minute lesson |
 |---|---|---|
 |  individual class | €50 / CHF54.50 | €37,50 / CHF41|
-|  5-class package (__5% discount__) | ~~€250 / CHF272,50~~ __€237,50 / CHF258,88__ | ~~€187,50 / CHF205~~ __€178,13 / CHF194,75__|
-|  10-class package (__7% discount__) | ~~€500 / CHF545~~ __€465 / CHF506,85__ | ~~€375 / CHF410~~ __€348,75 / CHF381,30__|
+|  5-class package (__3% discount__) | __€242,50 / CHF264__ | __€181,88 / CHF198__|
+|  10-class package (__5% discount__) | __€475 / CHF517,75__ | __€348,75 / CHF388,30__|
 
 ### Availability
+<iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
