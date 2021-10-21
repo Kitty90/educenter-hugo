@@ -29,8 +29,8 @@ type: "course"
 Are you planning to take an official language exam? These bespoke classes are designed specifically for test preparation. I offer language guidance and lesson content tailored to your individual needs. In these lessons, you will familiarize yourself with the necessary strategies, contexts and skills that are tested in the exam.
 
 I can help you prepare for the following exams:
-Dutch: Inburgeringsexamen, Staatsexamen I / II, CNaVT
-English: TOEFL, Cambridge, Trinity  
+- Dutch: Inburgeringsexamen, Staatsexamen I / II, CNaVT
+- English: TOEFL, Cambridge, Trinity  
 
 ### Teaching Method and Materials:
 Test preparation lessons focus specifically on honing the skills you need to pass a particular language exam. To determine which topics or skills require practice, you will be asked to do a mock test before the first lesson. We will focus on the language tasks (reading, listening, speaking, writing) you need to improve to pass the exam, and will revisit challenging grammar topics when necessary. Note, however, that test preparation lessons are not like regular language classes: you are expected to have studied the level-specific grammar topics and skills in the past. 

@@ -27,8 +27,8 @@ type: "course"
 
 ### Over examenvoorbereiding:
 Wilt u graag een officiële taaltoets afleggen om uw taalvaardigheid aan te kunnen tonen met een certificaat? Ik bied examenvoorbereidingslessen op maat. In deze lessen maakt u kennis met de vorm en inhoud van de officiële taaltoets die u wilt halen. Ik kan u helpen bij het voorbereiden voor de volgende examens: 
-Nederlands: Inburgeringsexamen, Staatsexamen I / II, CNaVT
-Engels: TOEFL, Cambridge, Trinity  
+- Nederlands: Inburgeringsexamen, Staatsexamen I / II, CNaVT
+- Engels: TOEFL, Cambridge, Trinity  
 
 ### Onderwijsmethode en -materialen:
 In examenvoorbereidingslessen oefent u de specifieke vaardigheden en strategieën die getoetst worden in officiële taaltoetsen. Om te bepalen welke onderwerpen of vaardigheden speciale aandacht behoeven, maakt u voor de eerste les een proefexamen. In de lessen zullen we vervolgens uw woordenschat, taalfuncties, -taken en -strategieën versterken, zodat u goed voorbereid en zelfverzekerd het examen kunt maken. Grammatica-onderwerpen worden herhaald en bestudeerd indien nodig. Houdt u er echter rekening mee dat examenvoorbereiding geen algemene taalles is; u wordt geacht de niveauspecifieke vaardigheden en grammatica ondewerpen al te hebben geoefend. 
