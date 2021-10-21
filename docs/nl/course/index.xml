@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Engelse of Nederlandse taallessen on Kitty de Vries Language Education</title>
+    <link>https://www.kittydevries.com/nl/course/</link>
+    <description>Recent content in Online Engelse of Nederlandse taallessen on Kitty de Vries Language Education</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.kittydevries.com/nl/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KORTING Proefles</title>
+      <link>https://www.kittydevries.com/nl/course/triallesson/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://www.kittydevries.com/nl/course/triallesson/</guid>
+      <description>Over Proeflessen: Een proefles duurt 30 minuten en is de ideale manier om te ontdekken hoe ik u kan helpen en of mijn lesstijl bij u past.</description>
+    </item>
+    
+    <item>
+      <title>Privé: Algemene Taalvaardigheid (A0-C2)</title>
+      <link>https://www.kittydevries.com/nl/course/classes/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://www.kittydevries.com/nl/course/classes/</guid>
+      <description>Over privélessen algemene taalvaardigheid: Het grote voordeel van privélessen is dat u individuele aandacht, maximale flexibiliteit en spreekgelegenheid krijgt.</description>
+    </item>
+    
+    <item>
+      <title>Privé: Examenvoorbereiding</title>
+      <link>https://www.kittydevries.com/nl/course/course-testprep/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://www.kittydevries.com/nl/course/course-testprep/</guid>
+      <description>Over examenvoorbereiding: Wilt u graag een officiële taaltoets afleggen om uw taalvaardigheid aan te kunnen tonen met een certificaat?</description>
+    </item>
+    
+  </channel>
+</rss>
