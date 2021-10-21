@@ -10,7 +10,7 @@ description : ""
 ---
 
 ## <img height=200px src=/images/about/kitty.jpeg> Over Kitty 
-Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn passie voor talen als docent en educatief auteur. Mijn academische My academic background is in English Literature and Linguistics (BA), Toegepaste Taalwetenschappen (MA), Onderwijstechnologie (MSc) en Onderwijs voor Duurzame Ontwikkeling.
+Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn passie voor talen als docent en educatief auteur. Ik heb aan de Rijksuniversiteit Groningen een bachelor Engelse taal en cultuur en een master in Toegepaste Taalwetenschappen gehaald. Daarnaast heb ik ook een master in Digital Humanities afgerond aan de KU Leuven en heb ik Onderwijs voor Duurzame Ontwikkeling gestudeerd aan de Universiteit van Göteborg.
 
 Ik ben opgegroeid in een klein dorpje op het platteland, 5 minuten van de Duitse grens en was van kleins af aan gefascineerd door vreemde talen, landen en culturen. Na het behalen van mijn diploma's in Engels en Tweede Taalverwerving heb ik als docent Engels op middelbare scholen in Nederland gewerkt. In 2016 kreeg ik echter de mogelijkheid om op afstand te werken voor Nederlandse educatieve uitgeverijen en ben ik naar Spanje vertrokken. Mijn nieuwsgierigheid naar digitale leermiddelen leidde me terug naar het noorden; in 2018 verhuisde ik naar België om aan de KU Leuven de master Digital Humanities te volgen. Sinds 2020 woon ik in Zwitserland en werk ik online als leermiddelenontwikkelaar en docente Nederlands en Engels. Hoewel ik niet meer in Nederland woon, ben ik nog regelmatig in Nederland te vinden. 
 
@@ -32,11 +32,11 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 
 ## Opleiding
 2021 - present : BA Chinese, Dalarna University   
-2018 - 2020 : MA Education for Sustainable Development, Gothenburg University  
+2018 - 2020 : MA Education for Sustainable Development, Universiteit Göteborg  
 2018 - 2019 : MSc Digital Humanities (Educational Technology), KU Leuven  
-2015 - 2016 : English Teacher Training, University of Groningen  
-2013 - 2014 : MA Applied Linguistics - TEFL, University of Groningen  
-2010 - 2013 : BA English Language and Culture, University of Groningen    
+2015 - 2016 : Basiscursus docent Engels, Rijksuniversiteit Groningen  
+2013 - 2014 : MA Applied Linguistics - TEFL, Rijksuniversiteit Groningen    
+2010 - 2013 : BA Engelse taal en cultuur, Rijksuniversiteit Groningen   
 
 ## Certificaten
 2021 : Goethe C1 German (score: 88/100)  
