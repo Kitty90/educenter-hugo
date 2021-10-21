@@ -9,7 +9,7 @@ description : "Taakgerichte lessen in zakelijke en wetenschappelijke communicati
 # course thumbnail
 image: "images/courses/business.png"
 # taxonomy
-category: "Dutch or English"
+category: "Nederlands of Engels"
 # teacher
 teacher: "Kitty de Vries"
 # duration
