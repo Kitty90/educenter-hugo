@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Bespoke private classes with the greatest flexibility."
+description : "Fast-track your language learning with bespoke private classes."
 # course thumbnail
 image: "images/courses/privateclass.jpg"
 # taxonomy
