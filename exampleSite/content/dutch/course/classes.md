@@ -17,7 +17,7 @@ duration : "1 - 10 weken"
 # weekly
 weekly : "1 - 6 lessen"
 # course fee
-fee : "Vanaf €35 per les"
+fee : "Vanaf €49 per les"
 # apply url
 apply_url : "/contact"
 # type
@@ -38,9 +38,10 @@ Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw spe
 
 | | 1 uur privéles|  45 minuten privéles|
 |---|---|---|
-|  1 les  | €50 / CHF54.50 | €37,50 / CHF41|
-|  5-lessenpakket (__3% korting__) | __€242,50 / CHF264__ | __€181,88 / CHF198__|
-|  10-lessenpakket (__5% korting__) | __€475 / CHF517,75__ | __€356,25 / CHF389,50__|
+|  1 les  | €70 / CHF75 | €52,50 / CHF56.25|
+|  5-lessenpakket (__3% korting__) | __€339,50 / CHF353.75__ | __€254,63 / CHF272.80__|
+|  10-lessenpakket (__5% korting__) | __€665 / CHF712.50__ | __€498,75 / CHF534.38__|
+
 
 ### Beschikbaarheid
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

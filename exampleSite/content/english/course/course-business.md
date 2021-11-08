@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 2 lessons"
 # course fee
-fee : "From: €42 per class"
+fee : "From: €49 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -38,13 +38,12 @@ In each lesson we will study and practice language use in a particular business 
 I have developed course material for academic and business language use (levels B1 - C1). The materials are generally task-based, focusing on language use in professional contexts. Please do not hesitate to let me know what your specific goals are, so I can tailor my content to your needs.
  </p>
 
-### Hourly rates
-
-| |private 60-minute lesson| private 45-minute lesson |
+### Rates
+| | private 60-minute lesson | private 45-minute lesson |
 |---|---|---|
-|  individual class | €60 / CHF65 | €45 / CHF48,75|
-|  5-class package (__3% discount__) | __€291 / CHF315.25__ | __€218.25 / CHF236.44__|
-|  10-class package (__5% discount__) | __€570 / CHF717.50__ | __€427,50 / CHF463.13__|
+|  1 class  | €70 / CHF75 | €52,50 / CHF56.25|
+|  5-class package (__3% korting__) | __€339,50 / CHF353.75__ | __€254,60 / CHF272.80__|
+|  10-class package (__5% korting__) | __€665 / CHF712.50__ | __€498,75 / CHF534.35__|
 
 ### Availability
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

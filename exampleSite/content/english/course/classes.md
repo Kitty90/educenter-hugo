@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 6 lessons"
 # course fee
-fee : "From: €35 per class"
+fee : "From: €49 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -34,12 +34,11 @@ Private classes are highly individualized, since different learners have differe
 </p>
 
 ### Rates
-
-| |private 60-minute lesson| private 45-minute lesson |
+| | private 60-minute lesson | private 45-minute lesson |
 |---|---|---|
-|  individual class | €50 / CHF54.50 | €37,50 / CHF41|
-|  5-class package (__3% discount__) | __€242,50 / CHF264__ | __€181,88 / CHF198__|
-|  10-class package (__5% discount__) | __€475 / CHF517,75__ | __€356,25 / CHF389,50__|
+|  1 class  | €70 / CHF75 | €52,50 / CHF56.25|
+|  5-class package (__3% korting__) | __€339,50 / CHF353.75__ | __€254,60 / CHF272.80__|
+|  10-class package (__5% korting__) | __€665 / CHF712.50__ | __€498,75 / CHF534.35__|
 
 ### Availability
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

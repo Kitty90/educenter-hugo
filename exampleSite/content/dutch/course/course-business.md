@@ -17,7 +17,7 @@ duration : "1 - 10 weken"
 # weekly
 weekly : "1 - 2 lessen"
 # course fee
-fee : "Vanaf €42 per les"
+fee : "Vanaf €49 per les"
 # apply url
 apply_url : "/contact"
 # type
@@ -40,11 +40,11 @@ I have developed course material for academic and business language use (levels 
 
 ### Tarieven
 
-| |1 uur | 45 minuten  |
+| | 1 uur privéles|  45 minuten privéles|
 |---|---|---|
-|  1 privéles | €60 / CHF65 | €45 / CHF48,75|
-|  5-lessenpakket (__3% korting__) | __€291 / CHF308.75__ | __€218.25 / CHF231.50__|
-|  10-lessenpakket (__5% korting__) | __€570 / CHF617.50__ | __€427.50 / CHF463__|
+|  1 les  | €70 / CHF75 | €52,50 / CHF56.25|
+|  5-lessenpakket (__3% korting__) | __€339,50 / CHF353.75__ | __€254,63 / CHF272.80__|
+|  10-lessenpakket (__5% korting__) | __€665 / CHF712.50__ | __€498,75 / CHF534.38__|
 
 ### Beschikbaarheid
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
