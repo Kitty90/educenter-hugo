@@ -39,7 +39,7 @@ Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw spe
 | | 1 uur privéles|  45 minuten privéles|
 |---|---|---|
 |  1 les  | €65 / CHF70 | €48,75 / CHF52.50|
-|  5-lessenpakket (__3% korting__) | __€339,50 / CHF353.75__ | __€236 / CHF254__|
+|  5-lessenpakket (__3% korting__) | __€315,25 / CHF339.50__ | __€236 / CHF254__|
 |  10-lessenpakket (__5% korting__) | __€617,50 / CHF665__ | __€463 / CHF498.75__|
 
 
