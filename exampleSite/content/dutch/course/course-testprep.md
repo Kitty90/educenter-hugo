@@ -17,7 +17,7 @@ duration : "1 - 10 weken"
 # weekly
 weekly : "1 - 2 lessen"
 # course fee
-fee : "Vanaf €49 per les"
+fee : "Vanaf €46 per les"
 # apply url
 apply_url : "/contact"
 # type
@@ -44,9 +44,9 @@ Aan het eind van de les krijgt u huiswerk, dit bestaat vaak uit een schrijf-, le
 
 | | 1 uur privéles|  45 minuten privéles|
 |---|---|---|
-|  1 les  | €70 / CHF75 | €52,50 / CHF56.25|
-|  5-lessenpakket (__3% korting__) | __€339,50 / CHF353.75__ | __€254,63 / CHF272.80__|
-|  10-lessenpakket (__5% korting__) | __€665 / CHF712.50__ | __€498,75 / CHF534.38__|
+|  1 les  | €65 / CHF70 | €48,75 / CHF52.50|
+|  5-lessenpakket (__3% korting__) | __€339,50 / CHF353.75__ | __€236 / CHF254__|
+|  10-lessenpakket (__5% korting__) | __€617,50 / CHF665__ | __€463 / CHF498.75__|
 
 
 ### Beschikbaarheid
