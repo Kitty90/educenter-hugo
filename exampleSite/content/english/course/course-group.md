@@ -18,7 +18,7 @@ duration : "5 weeks"
 # weekly
 weekly : "1,5 hours"
 # course fee
-fee : "€180 per module"
+fee : "€180"
 # apply url
 apply_url : "/contact"
 # type
