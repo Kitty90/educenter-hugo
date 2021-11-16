@@ -1,11 +1,12 @@
 ---
 title: "Dutch Group Courses"
 date: 2019-07-06T15:27:17+06:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "We offer online Dutch courses at all language levels; from true beginners (CEFR A0) to proficient users (CEFR C2). In general language courses, we practice the key language skills (listening, reading, speaking, writing, grammar, spelling and pronunciation) in realistic contexts that correspond to your desired language level."
+description : "__LIMITED AVAILABILITY - APPLICATION OPEN |__ 
+Fast-track your Dutch skills with communicative language classes!"
 # course thumbnail
 image: "images/courses/groupcourse.jpg"
 # taxonomy
@@ -15,9 +16,9 @@ teacher: "Kitty de Vries"
 # duration
 duration : "5 weeks"
 # weekly
-weekly : "2 hours"
+weekly : "1,5 hours"
 # course fee
-fee : "€175 per module"
+fee : "€180 per module"
 # apply url
 apply_url : "/contact"
 # type
@@ -25,63 +26,54 @@ type: "course"
 ---
 
 
-### About the Courses
-I currently offer group courses at language levels A0 to A2. Group courses allow you to share and learn from other students learning journey. Class sizes are limited to 3-4 students to provide each student with plenty of speaking practice. Are you not sure which language level you have? 
-Contact me for a placement test. 
+### About group courses
+#### Teaching Method
+How can we learn languages fast and efficienctly? By studying and using them in real-life contexts. As a language teacher, I have seen many Dutch learners achieve astounding progress using the tried-and-tested Delft method, which is renowned for its strong focus on communication skills instead of grammar. 
 
-#### Highlights of group courses
-* Small group sizes (3-4 students) to maximize speaking practice 
-* A renowned communication-focused method to fast-track the development of speaking skills
-* Short modular 5-week courses 
-* Fast progress: go from A0 to A2 in 20 weeks 
+In my group courses, we use this highly communicative method that allows learners to speak right from the first lesson! How? 
+* __Before class:__ First, you read and listen to a text extensively and intensively in an e-learning environment. Translations of the text in your native language help you understand the text. Then, you practice your pronunciation and do exercises to prepare for the conversation class.
+* __In class:__ All classes are conversation classes taught in Dutch. The class size is limited to 4-6 students to maximize speaking practice. We discuss the topic of the text using the words, sentences and structures you have studied at home. If something remains unclear by the end of the lesson, you will have time to ask questions about the text or discuss any uncertainties you may still have.  
+* __After class:__ You do a short exam to check whether you have understood everything.  
 
-#### Teaching method and materials
-#### Focus on communication: de Delftse methode
+I currently offer Dutch group courses from levels A0 to B1. The language level required for the Civic Integration Exam(Inburgeringsexamen) and State Exam (Staatsexamen programma I) is B1. 
+Are you unsure about your current language level? 
+Contact me for a placement test.     
+  
 
-A0-A2 book : Nederlands voor buitenlanders, Boom Publishers 
 
-#### Nederlands A0 - A1
-|course | duur | lessen| self study | fee |
+#### Highlights of Group Courses
+* __Small classes:__ Get plenty of speaking practice in conversation classes with 4-6 students. 
+* __Focus on communication:__ Learn grammar by reading, listening and speaking rather than studying abstract grammar rules. 
+* __Modular courses:__ Set the pace; each course consists of 2 to 4 short modules and you only need to commit to one 5-week module at a time. 
+* __Fast progress:__ Speak from day one and reach a language level in 20 (A1 or A2) to 40 lessons (A2 to B1). 
+  
+    
+  
+### Practical Course Information
+#### Course Structure 
+|Course | Duration | Lessons| Self Study | Fee |
 |-|-|-|-|-|
-|  A1 Module 1 | 5 weeks | 10 (2 * 45 minutes per week) | 8 hours per week | €175 |
-|  A1 Module 2 | 5 weeks | 10 (2 * 45 minutes per week) | 8 hours per week | €175 |
+| A1 (2 modules) | 5 weeks per module  | 10 (2 * 45 minutes per week) | 8 hours per week | €180 per module |
+| A2 (2 modules) | 5 weeks per module  | 10 (2 * 45 minutes per week) | 8 hours per week | €180 per module |
+| B1 (4 modules) | 5 weeks per module | 10 (2 * 45 minutes per week) | 8 hours per week | €180 per module |
 
-Boek: Nederlands voor buitenlanders, Boom
+__A true beginner can reach the level required for the Civic Integration Exam (B1) in 40 weeks (8 modules of 5 weeks each).__
 
-#### Nederlands A1 - A2
-|course | duration | lessons| self study | fee |
-|-|-|-|-|-|
-| A2 Module 3 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-| A2 Module 4 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
+#### Learning materials
+The course books are not provided and not included in the course fee. Students are required to purchase the following textbooks: 
+- Levels A0-A2: Nederlands voor buitenlanders, Boom (course book + online licence)
+- Level A2-B1: De tweede ronde, Boom (course book + online licence)
 
-Boek: Nederlands voor buitenlanders, Boom
+##### Course Dates
+| Course | Class sessions (CET) | Start date | End date |
+|-|-|-|-|
+| A1 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 3 January, 2022 | 2 February, 2022 |
+| A1 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 14 February 2022 | 16 March, 2022 |
+| A2 module 3 | Mondays & Wednesdays, 18.00 - 18.45 uur (CET)| 21 March, 2022 | 25 April, 2022 |
+| A2 module 4 | Mondays & Wednesdays, 18.00 - 18.45 uur (CET)| 2 May, 2022 | 1 June, 2022 |
+| B1 module 1 | Tuesdays & Thursdays, 18.00 - 18.45 uur (CET)| 15 February, 2022 | 17 March, 2022 |
+| B1 module 2 | Tuesdays & Thursdays, 18.00 - 18.45 uur (CET)| 22 March, 2022 | 21 April, 2022 |
+| B1 module 3 | Tuesdays & Thursdays, 18.00 - 18.45 uur (CET)| 26 April, 2022 | 2 June, 2022 |
+| B1 module 4 | Tuesdays & Thursdays, 18.00 - 18.45 uur (CET)| 7 June, 2022 | 7 July, 2022 |
 
-##### Lesdata
-| cursus | dagen | tijd | startdatum | einddatum |
-|-|-|-|-|-|
-| A1 module 1 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 3 januari 2022 | 3 februari 2022 |
-| A1 module 2 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 17 maart 2022 |
-| A2 module 3 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 17 maart 2022 |
-| A2 module 4 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 17 maart 2022 |
-
-
-#### B1.1 - B1.2: Beginning Intermediate to Intermediate Proficiency
-|course|duration| classes | self-study | fees| 
-|---|---|---|---|---|
-|  Intensive | 8 weeks | 32 (2*2 hours per week)  | 8 hours per week |€640|
-|  Normal | 10 weeks | 20 (2*1 hour per week)  | 7 hours per week |€400|
-
-
-#### B1.2 - B2.1: Intermediate to Upper Intermediate Proficiency
-|course|duration| classes| self-study | fees |
-|---|---|---|---|---|
-|  Intensive | 12 weeks | 48 (2*2 hours per week) | 10 |€960|
-|  Normal | 16 weeks | 32 (2*1 hour per week)  | 8 | €640 |
-
-
-#### B2.1 - B2.2: Full Upper Intermediate proficiency
-|course|duration| classes | self-study| fees |
-|---|---|---|---|---|
-|  Intensive | 12 weeks | 48 (2*2 hours per week) | 9 hours per week | €960 |
-|  Normal | 16 weeks | 32 (2*1 hour per week) | 8 hours per week | €640 |
 

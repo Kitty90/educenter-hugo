@@ -25,12 +25,20 @@ type: "course"
 ---
 
 
-### Over groepscursussen 
+### Waarom een groepscursus?
 Op dit moment bied ik groepscurssusen Nederlands voor beginners aan (taalniveaus A0 - A2). Tijdens de groepscursus oefen je in <b>kleine groepen van 3-4 studenten</b> vooral je spreekvaardigheid. Weet u niet zeker welk taalniveau je hebt? Neemt u contact met mij op voor een niveautest. 
-I currently offer group courses at language levels A1 and A2. Group courses allow you to share and learn from other students learning journey. The class size will be limited to 3-4 students to provide each student with plenty of speaking practice. The duration of the course depends on the course intensity and the level. 
+
+
+### Waarom een groepscursus?
+* Kleine groepen (4-6 studenten) zodat iedereen aan het woord komt 
+* Een beproefde communicatieve leermethode zodat je snel leert spreken
+* De cursussen zijn opgebouwd uit korte modules van 5 weken 
+* Snel succes boeken: van A0 tot A2 in 20 weken 
 
 ### Onderwijsmethode en -materialen method
-#### Snel leren spreken met de Delftse methode
+#### Spreken vanaf les 1 met de Delftse methode
+Een taal leer je door hem te gebruiken! Daarom gebruiken we in de groepscursus de Delftse methode, een leermethode waarbij je door het uitvoerig lezen en spreken over teksten op een natuurlijke manier vlot Nederlands leert spreken. 
+
 A0-A2 (modules 1 t/m 4): Nederlands voor buitenlanders, Boom
 A2-B1: De Tweede Ronde, Boom 
 
@@ -39,20 +47,20 @@ A2-B1: De Tweede Ronde, Boom
 |-|-|-|-|-|
 |  A1 Module 1 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
 |  A1 Module 2 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-Boek: Nederlands voor buitenlanders, Boom
+Boek: Nederlands voor buitenlanders (A0-A2), Boom
 
 #### Nederlands A1 - A2
 |cursus | duur | lessen| zelf-studie | prijs |
 |-|-|-|-|-|
 | A2 Module 3 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
 | A2 Module 4 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-Boek: Nederlands voor buitenlanders, Boom
+Boek: Nederlands voor buitenlanders (A0-A2), Boom
 
 ##### Lesdata
 | cursus | dagen | tijd | startdatum | einddatum |
 |-|-|-|-|-|
-| A1 module 1 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 3 januari 2022 | 3 februari 2022 |
-| A1 module 2 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 17 maart 2022 |
-| A2 module 3 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 17 maart 2022 |
-| A2 module 4 | maandag & donderdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 17 maart 2022 |
+| A1 module 1 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 3 januari 2022 | 2 februari 2022 |
+| A1 module 2 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 16 maart 2022 |
+| A2 module 1 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 21 maart 2022 | 25 april 2022 |
+| A2 module 2 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 2 mei 2022 | 1 juni 2022 |
 
