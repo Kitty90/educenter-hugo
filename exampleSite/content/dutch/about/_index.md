@@ -10,9 +10,9 @@ description : ""
 ---
 
 ## <img height=200px src=/images/about/kitty.jpeg> Over Kitty 
-Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn passie voor talen als docent en educatief auteur. Ik heb aan de Rijksuniversiteit Groningen een bachelor Engelse taal en cultuur en een master in Toegepaste Taalwetenschappen gehaald. Daarnaast heb ik ook een master in Digital Humanities afgerond aan de KU Leuven en heb ik Onderwijs voor Duurzame Ontwikkeling gestudeerd aan de Universiteit van Göteborg.
+Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn passie voor talen als docent en educatief auteur en redacteur. Ik heb aan de Rijksuniversiteit Groningen een bachelor Engelse taal en cultuur en een master in Toegepaste Taalwetenschappen gehaald. Daarnaast heb ik ook een master in Digital Humanities afgerond aan de KU Leuven en heb ik Onderwijs voor Duurzame Ontwikkeling gestudeerd aan de Universiteit van Göteborg. Momenteel volg ik een bachelorstudie Chinees. 
 
-Ik ben opgegroeid in een klein dorpje op het platteland, 5 minuten van de Duitse grens, en was van kleins af aan al gefascineerd door vreemde talen, landen en culturen. Na het afronden van mijn studie in Groningen heb ik als docent Engels op middelbare scholen in Nederland gewerkt. In 2016 kreeg ik echter de mogelijkheid om op afstand te werken voor Nederlandse educatieve uitgeverijen en ben ik naar Spanje vertrokken. Mijn nieuwsgierigheid naar digitale leermiddelen leidde me terug naar het noorden; in 2018 verhuisde ik naar België om aan de KU Leuven onderwijstechnologie te studeren. Sinds 2020 woon ik in Zwitserland en werk ik online als leermiddelenontwikkelaar en docente Nederlands en Engels. Hoewel ik niet meer in Nederland woon, ben ik nog regelmatig in Nederland te vinden. 
+Ik ben opgegroeid in een klein dorpje op het platteland, 5 minuten van de Duitse grens, en was van kleins af aan al gefascineerd door vreemde talen, landen en culturen. Na het afronden van mijn studie in Groningen heb ik als docent Engels op middelbare scholen in Nederland gewerkt. In 2016 kreeg ik echter de mogelijkheid om op afstand te werken voor Nederlandse educatieve uitgeverijen en ben ik naar Spanje vertrokken. Mijn nieuwsgierigheid naar digitale leermiddelen leidde me terug naar het noorden; in 2018 verhuisde ik naar België om aan de KU Leuven onderwijstechnologie te studeren. Daarna heb ik weer een periode in Spanje gewoond en rondgereisd, maar sinds 2020 woon ik in Zwitserland en werk ik online als leermiddelenontwikkelaar en docente Nederlands en Engels. Hoewel ik niet meer in Nederland woon, ben ik nog regelmatig in Nederland te vinden. 
 
 ## Talenkennis
 Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Frans (B2), Italiaans (B1), Portugees (A2) en Mandarijn Chinees (A1).
@@ -34,13 +34,15 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 2021 - present : BA Chinese, Dalarna University   
 2018 - 2020 : MA Education for Sustainable Development, Universiteit Göteborg  
 2018 - 2019 : MSc Digital Humanities (Educational Technology), KU Leuven  
-2015 - 2016 : Basiscursus docent Engels, Rijksuniversiteit Groningen  
+2015 - 2016 : Postmaster Leraar Voorbereidend Hoger Onderwijs, Rijksuniversiteit Groningen  
 2013 - 2014 : MA Applied Linguistics - TEFL, Rijksuniversiteit Groningen    
-2010 - 2013 : BA Engelse taal en cultuur, Rijksuniversiteit Groningen   
+2010 - 2013 : BA Engelse taal en cultuur, Rijksuniversiteit Groningen 
+* Minoren: Italiaanse taalvaardigheid (B1), Meertaligheid, Middeleeuwen- en Renaissancestudies
+2009 - 2010 : BA Romaanse talen en culturen - Frans, Rijksuniversiteit Groningen  
 
 ## Certificaten
-2021 : Goethe C1 German (score: 88/100)  
-2018 : ToEFL iBT C2 English (score: 117/120)  
+2021 : Goethe C1 Duits (score: 88/100)  
+2018 : ToEFL iBT C2 Engels (score: 117/120)  
 
 ## Projecten 
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  

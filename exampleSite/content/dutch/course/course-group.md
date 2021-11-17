@@ -1,11 +1,11 @@
 ---
 title: "Groepscursussen Nederlands"
 date: 2019-07-06T15:27:17+06:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "We offer online Dutch courses at all language levels; from true beginners (CEFR A0) to proficient users (CEFR C2). In general language courses, we practice the key language skills (listening, reading, speaking, writing, grammar, spelling and pronunciation) in realistic contexts that correspond to your desired language level."
+description : "__INSCHRIJVING OPEN - BEPERKTE PLAATSEN - SCHRIJF JE NU IN! |__"
 # course thumbnail
 image: "images/courses/groupcourse.jpg"
 # taxonomy
@@ -15,9 +15,9 @@ teacher: "Kitty de Vries"
 # duration
 duration : "5 weken"
 # weekly
-weekly : "2 uur"
+weekly : "1,5 uur"
 # course fee
-fee : "€175 per module"
+fee : "€180"
 # apply url
 apply_url : "/contact"
 # type
@@ -25,42 +25,42 @@ type: "course"
 ---
 
 
-### Waarom een groepscursus?
-Op dit moment bied ik groepscurssusen Nederlands voor beginners aan (taalniveaus A0 - A2). Tijdens de groepscursus oefen je in <b>kleine groepen van 3-4 studenten</b> vooral je spreekvaardigheid. Weet u niet zeker welk taalniveau je hebt? Neemt u contact met mij op voor een niveautest. 
+### Spreken vanaf les 1 met de Delftse methode!
+Een taal leer je door hem actief te gebruiken. Daarom gebruiken we in de groepscursus de Delftse methode, een leermethode waarbij je door het uitvoerig lezen van en luisteren naar  teksten voor de les en doelgerichte conversatielessen op een natuurlijke manier vlot Nederlands leert spreken. 
+
+Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot B1. Tijdens de groepscursus oefen je in <b>kleine groepen van 3-4 studenten</b> vooral je spreekvaardigheid. Weet je niet zeker welk taalniveau je hebt? Of heb je een taalniveau hoger dan B1? Neem contact met mij op voor een niveautest of privélessen.  
 
 
-### Waarom een groepscursus?
-* Kleine groepen (4-6 studenten) zodat iedereen aan het woord komt 
-* Een beproefde communicatieve leermethode zodat je snel leert spreken
-* De cursussen zijn opgebouwd uit korte modules van 5 weken 
-* Snel succes boeken: van A0 tot A2 in 20 weken 
+### Daarom een groepscursus!
+* __Kleine groepen:__ Een groep bestaat uit 4-6 cursisten, zodat iedereen aan het woord komt. 
+* __Focus op communicatie:__ Leer grammatica door te lezen, luisteren en spreken in plaats van abstracte grammaticaregels te bestuderen.
+* __Flexibiliteit:__ Bepaal zelf je leertempo. De cursussen bestaan uit korte modules. Een module is 10 lessen en duurt 5 weken. Het is mogelijk om je slechts voor één module in te schrijven. 
+* __Snel succes boeken:__ Bereik niveau A1 of A2 in 20 lessen, of niveau B1 in 40 lessen. 
+</div>
 
-### Onderwijsmethode en -materialen method
-#### Spreken vanaf les 1 met de Delftse methode
-Een taal leer je door hem te gebruiken! Daarom gebruiken we in de groepscursus de Delftse methode, een leermethode waarbij je door het uitvoerig lezen en spreken over teksten op een natuurlijke manier vlot Nederlands leert spreken. 
-
-A0-A2 (modules 1 t/m 4): Nederlands voor buitenlanders, Boom
-A2-B1: De Tweede Ronde, Boom 
-
-#### Nederlands A0 - A1
-|cursus | duur | lessen| zelf-studie | prijs |
+#### Groepscurssen Nederlands 
+|Cursus | Duur | Lessen| Zelf-Studie | Cursusgeld |
 |-|-|-|-|-|
-|  A1 Module 1 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-|  A1 Module 2 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-Boek: Nederlands voor buitenlanders (A0-A2), Boom
+| A1 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 8 uur per week | €180 per module |
+| A2 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 8 uur per week | €180 per module |
+| B1 (4 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 8 uur per week | €180 per module |
 
-#### Nederlands A1 - A2
-|cursus | duur | lessen| zelf-studie | prijs |
-|-|-|-|-|-|
-| A2 Module 3 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-| A2 Module 4 | 5 weken | 10 (2 * 45 minuten per week) | 8 uur per week | €175 |
-Boek: Nederlands voor buitenlanders (A0-A2), Boom
+#### Lesmateriaal
+Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeken. Voor de lessen worden de volgende boeken gebruikt:
+* A1 & A2: Nederlands voor buitenlanders, Boom
+* B1: De tweede ronde, Boom 
+
 
 ##### Lesdata
-| cursus | dagen | tijd | startdatum | einddatum |
-|-|-|-|-|-|
-| A1 module 1 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 3 januari 2022 | 2 februari 2022 |
-| A1 module 2 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 14 februari 2022 | 16 maart 2022 |
-| A2 module 1 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 21 maart 2022 | 25 april 2022 |
-| A2 module 2 | maandag & woensdag | 18.00 - 18.45 uur (GMT+1)| 2 mei 2022 | 1 juni 2022 |
+| Cursus | Dag & Tijdstip | Startdatum | Einddatum |
+|-|-|-|-| 
+| A1 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 3 januari 2022 | 2 februari 2022 |
+| A1 module 2 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 14 februari 2022 | 16 maart 2022 |
+| A2 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 21 maart 2022 | 25 april 2022 |
+| A2 module 2 | maandag & woensdag, 18.00 - 18.45 uur(CET)| 2 mei 2022 | 1 juni 2022 |
+| B1 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 15 februari 2022 | 17 maart 2022 |
+| B1 module 2 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 22 maart 2022 | 21 april 2022 |
+| B1 module 3 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 26 april 2022 | 2 juni 2022 |
+| B1 module 4 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 7 juni 2022 | 7 juli 2022 |
+
 
