@@ -26,10 +26,10 @@ type: "course"
 
 
 ### About Private Classes:
-If you are looking for maximum flexibility and personalized instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor made; designed with your interests and calendar in mind. 
+If you are looking for maximum flexibility and personalised instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor made; your language learning journey is designed and planned with your interests and calendar in mind. 
 
 ### Teaching Method and Materials:
-Private classes are highly individualized, since different learners have different needs and interests. During your first class we will discuss and determine your learning goals, style and needs. Perhaps you enjoy a structured and grammar rule-based approach? Or would you prefer a communication-oriented teaching style? After the introductory lesson, we will develop a bespoke learning plan to help you achieve your goals.
+Private classes are highly individualised, since different learners have different needs and interests. During your first lesson we will discuss and determine your learning goals, style and needs. Perhaps you enjoy a structured and grammar rule-based approach? Or would you prefer a communication-oriented teaching style? After the introductory lesson, we will develop a bespoke learning plan to help you achieve your goals.
 
 </p>
 
