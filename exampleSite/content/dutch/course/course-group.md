@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "__INSCHRIJVING OPEN - BEPERKTE PLAATSEN - SCHRIJF JE NU IN! |__"
+description : "__INSCHRIJVING OPEN - BEPERKTE PLAATSEN - SCHRIJF JE NU IN!__ Snel Nederlands leren met de Delfte Methode"
 # course thumbnail
 image: "images/courses/groupcourse.jpg"
 # taxonomy
@@ -41,9 +41,9 @@ Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot en me
 #### Groepscurssen Nederlands 
 |Cursus | Duur | Lessen| Zelf-Studie | Cursusgeld |
 |-|-|-|-|-|
-| A1 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 8 uur per week | €180 per module |
-| A2 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 8 uur per week | €180 per module |
-| B1 (4 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 8 uur per week | €180 per module |
+| A1 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 4-6 uur per week | €180 per module |
+| A2 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 4-6 uur per week | €180 per module |
+| B1 (4 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 4-6 uur per week | €180 per module |
 
 #### Lesmateriaal
 Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeken. Voor de lessen worden de volgende boeken gebruikt:
