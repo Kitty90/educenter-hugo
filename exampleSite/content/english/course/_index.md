@@ -1,8 +1,8 @@
 ---
-title: "Online English and Dutch Classes"
+title: "Online English or Dutch Classes"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.png"
 # meta description
-description : "I teach general and specialized English and Dutch classes online. Click on the class types for more information."
+description : "I teach group courses as well as private general language, business, and test preparation classes. Click on the class types for more information."
 ---
