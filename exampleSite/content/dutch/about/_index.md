@@ -33,14 +33,15 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 ## Opleiding
 2021 - present : BA Chinese, Dalarna University   
 2018 - 2020 : MA Education for Sustainable Development, Universiteit Göteborg  
-2018 - 2019 : MSc Digital Humanities (Educational Technology), KU Leuven  
+2018 - 2019 : MSc Digital Humanities - Educational Technology (magna cum laude), KU Leuven  
 2015 - 2016 : Postmaster Leraar Voorbereidend Hoger Onderwijs, Rijksuniversiteit Groningen  
 2013 - 2014 : MA Applied Linguistics - TEFL, Rijksuniversiteit Groningen    
 2010 - 2013 : BA Engelse taal en cultuur, Rijksuniversiteit Groningen 
-* Minoren: Italiaanse taalvaardigheid (B1), Meertaligheid, Middeleeuwen- en Renaissancestudies
+- Minoren: Italiaanse taalvaardigheid (B1), Meertaligheid, Middeleeuwen- en Renaissancestudies
+
 2009 - 2010 : BA Romaanse talen en culturen - Frans, Rijksuniversiteit Groningen  
 
-## Certificaten
+## Certificaten 
 2021 : Goethe C1 Duits (score: 88/100)  
 2018 : ToEFL iBT C2 Engels (score: 117/120)  
 
