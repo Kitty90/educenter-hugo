@@ -28,7 +28,7 @@ type: "course"
 ### Spreken vanaf les 1 met de Delftse methode!
 Een taal leer je door hem actief te gebruiken. Daarom gebruiken we in de groepscursus de Delftse methode, een leermethode waarbij je door het uitvoerig lezen van en luisteren naar  teksten voor de les en doelgerichte conversatielessen op een natuurlijke manier vlot Nederlands leert spreken. 
 
-Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot B1. Tijdens de groepscursus oefen je in <b>kleine groepen van 3-4 studenten</b> vooral je spreekvaardigheid. Weet je niet zeker welk taalniveau je hebt? Of heb je een taalniveau hoger dan B1? Neem contact met mij op voor een niveautest of privélessen.  
+Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot en met B1. Tijdens de groepscursus oefen je in <b>kleine groepen van 4-6 studenten</b> vooral je spreekvaardigheid. Weet je niet zeker welk taalniveau je hebt? Of heb je een taalniveau hoger dan B1? Neem contact met mij op voor een niveautest of privélessen.  
 
 
 ### Daarom een groepscursus!
@@ -36,7 +36,7 @@ Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot B1. T
 * __Focus op communicatie:__ Leer grammatica door te lezen, luisteren en spreken in plaats van abstracte grammaticaregels te bestuderen.
 * __Flexibiliteit:__ Bepaal zelf je leertempo. De cursussen bestaan uit korte modules. Een module is 10 lessen en duurt 5 weken. Het is mogelijk om je slechts voor één module in te schrijven. 
 * __Snel succes boeken:__ Bereik niveau A1 of A2 in 20 lessen, of niveau B1 in 40 lessen. 
-</div>
+
 
 #### Groepscurssen Nederlands 
 |Cursus | Duur | Lessen| Zelf-Studie | Cursusgeld |
