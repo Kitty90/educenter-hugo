@@ -26,7 +26,7 @@ type: "course"
 
 
 ### Over privélessen algemene taalvaardigheid:
-Cursisten die privélessen volgen, verbeteren vaak sneller hun taalvaardigheid dan cursisten in een groep. Vaak ligt de klassegrootte bij een groepscursus rond de 15 cursisten. Daardoor moet een docent zijn aandacht verdelen en is de spreekgelegenheid per cursist per les beperkt. Bovendien worden groepscursussen vaak gepland op een vaste dag en een vast tijdstip dat u wellicht niet uitkomt. Het grote voordeel van privélessen is dus dat u individuele aandacht, maximale spreekgelegenheid en flexibiliteit krijgt.
+Cursisten die privélessen volgen, verbeteren vaak sneller hun taalvaardigheid dan cursisten in een groep. Vaak ligt de klassegrootte bij een klassikale groepscursus rond de 15 cursisten. Daardoor moet een docent zijn aandacht verdelen en is de spreekgelegenheid per cursist per les beperkt. Bovendien worden groepscursussen vaak gepland op een vaste dag en een vast tijdstip dat u wellicht niet uitkomt. Het grote voordeel van privélessen is dus dat u individuele aandacht, maximale spreekgelegenheid en flexibiliteit krijgt.
 
 ### Teaching Method and Materials:
 Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw specifieke taaldoelen, interesses en behoeftes. Tijdens een proefles bespreken we uw leerstijl en leerdoelen. Wellicht vindt u houvast in het bestuderen van grammatica? Of geeft u de voorkeur aan een communicatiegerichte leerstijl zonder al te veel aandacht aan grammatica te besteden? Ik maak graag een individueel leerplan voor u dat in lijn is met uw leerstijl en doelen.
@@ -36,7 +36,7 @@ Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw spe
 
 ### Tarieven
 
-| | 1 uur privéles|  45 minuten privéles|
+| | 1 uur privéles| 45 minuten privéles|
 |---|---|---|
 |  1 les  | €65 / CHF70 | €48,75 / CHF52.50|
 |  5-lessenpakket (__3% korting__) | __€315,25 / CHF339.50__ | __€236 / CHF254__|

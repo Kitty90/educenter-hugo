@@ -47,9 +47,8 @@ Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot en me
 
 #### Lesmateriaal
 Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeken. Voor de lessen worden de volgende boeken gebruikt:
-* A1 & A2: Nederlands voor buitenlanders, Boom
-* B1: De tweede ronde, Boom 
-
+* A1 & A2: Nederlands voor buitenlanders (tekstboek & licentie), Boom
+* B1: De tweede ronde (tekstboek & licentie), Boom 
 
 ##### Lesdata
 | Cursus | Dag & Tijdstip | Startdatum | Einddatum |
@@ -58,7 +57,7 @@ Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeke
 | A1 module 2 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 14 februari 2022 | 16 maart 2022 |
 | A2 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 21 maart 2022 | 25 april 2022 |
 | A2 module 2 | maandag & woensdag, 18.00 - 18.45 uur(CET)| 2 mei 2022 | 1 juni 2022 |
-| B1 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 15 februari 2022 | 17 maart 2022 |
+| B1 module 1 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 15 februari 2022 | 17 maart 2022 |
 | B1 module 2 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 22 maart 2022 | 21 april 2022 |
 | B1 module 3 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 26 april 2022 | 2 juni 2022 |
 | B1 module 4 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 7 juni 2022 | 7 juli 2022 |
