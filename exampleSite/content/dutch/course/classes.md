@@ -25,13 +25,11 @@ type: "course"
 ---
 
 
-### Over privélessen algemene taalvaardigheid:
+### Waarom privéles?
 Cursisten die privélessen volgen, verbeteren vaak sneller hun taalvaardigheid dan cursisten in een groep. Vaak ligt de klassegrootte bij een klassikale groepscursus rond de 15 cursisten. Daardoor moet een docent zijn aandacht verdelen en is de spreekgelegenheid per cursist per les beperkt. Bovendien worden groepscursussen vaak gepland op een vaste dag en een vast tijdstip dat u wellicht niet uitkomt. Het grote voordeel van privélessen is dus dat u individuele aandacht, maximale spreekgelegenheid en flexibiliteit krijgt.
 
-### Teaching Method and Materials:
-Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw specifieke taaldoelen, interesses en behoeftes. Tijdens een proefles bespreken we uw leerstijl en leerdoelen. Wellicht vindt u houvast in het bestuderen van grammatica? Of geeft u de voorkeur aan een communicatiegerichte leerstijl zonder al te veel aandacht aan grammatica te besteden? Ik maak graag een individueel leerplan voor u dat in lijn is met uw leerstijl en doelen.
-
-
+### Lesmethode en -materialen:
+Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw specifieke taaldoelen, interesses en behoeftes. Tijdens een proefles bespreken we uw leerstijl en leerdoelen. Wellicht vindt u houvast in het bestuderen van grammatica? Of geeft u de voorkeur aan een communicatiegerichte leerstijl zonder al te veel aandacht aan grammatica te besteden? Ik heb ervaring met verschillende lesmethodes en heb als educatief auteur ook ervaring met het ontwikkelen van lesmateriaal. Daardoor heb ik een uitgebreide gereedschapskist waarmee ik tegemoet kan komen aan de specifieke behoeftes van mijn studenten. Ik maak graag een individueel leerplan voor u dat in lijn is met uw leerstijl en doelen.
 </p>
 
 ### Tarieven

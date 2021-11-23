@@ -1,5 +1,5 @@
 ---
-title: "Privat / Duo: Niederländisch als Fremdsprache"
+title: "Privat: Niederländisch als Fremdsprache"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -25,22 +25,23 @@ type: "course"
 ---
 
 
-### About Private Classes:
-If you are looking for maximum flexibility and personalized instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor-made, designed with your interests in mind. 
+### Wofur sollen Sie sich für Privatunterricht entscheiden?
+Sprachlerner die sich für Privatunterricht entschieden haben, verbessern ihre Sprachfähigkeiten im Allgemeinen schneller als Sprachlerner in eine Gruppe. Grund dafür ist dass die Klassegrösse bei Gruppenkurse häufig 15 Kursisten zählt. Dadurch  
 
-### Teaching Method and Materials:
-Private classes are highly individualized; during your first class we will discuss and determine your learning goals, style and needs. Based on this information, we will develop a bespoke learning plan to help you achieve your goals.
+Cursisten die privélessen volgen, verbeteren vaak sneller hun taalvaardigheid dan cursisten in een groep. Vaak ligt de klassegrootte bij een klassikale groepscursus rond de 15 cursisten. Daardoor moet een docent zijn aandacht verdelen en is de spreekgelegenheid per cursist per les beperkt. Bovendien worden groepscursussen vaak gepland op een vaste dag en een vast tijdstip dat u wellicht niet uitkomt. Het grote voordeel van privélessen is dus dat u individuele aandacht, maximale spreekgelegenheid en flexibiliteit krijgt.
 
-#### Duo classes:
-Do you know someone who is also looking to improve their Dutch? If you are at approximately the same language level, you have the option to take classes together at discounted rates. 
+### Lesmethode en -materialen:
+Voor privécursisten maak ik een individueel leerplan op maat, gericht op uw specifieke taaldoelen, interesses en behoeftes. Tijdens een proefles bespreken we uw leerstijl en leerdoelen. Wellicht vindt u houvast in het bestuderen van grammatica? Of geeft u de voorkeur aan een communicatiegerichte leerstijl zonder al te veel aandacht aan grammatica te besteden? Ik heb ervaring met verschillende lesmethodes en heb als educatief auteur ook ervaring met het ontwikkelen van lesmateriaal. Daardoor heb ik een uitgebreide gereedschapskist waarmee ik tegemoet kan komen aan de specifieke behoeftes van mijn studenten. Ik maak graag een individueel leerplan voor u dat in lijn is met uw leerstijl en doelen.
+
 </p>
 
-### Hourly rates
+### Preise
 
-| |private |duo | 
+| | 60 Minuten Privatunterricht| 45 Minuten Privatunterricht|
 |---|---|---|
-|  individual class | €50 | €40 per student| 
-|  5-class package | €237.5 | €190 per student |
-|  10-class package | €450 | €360 per student |
+|  1 Lektion  | €65 / CHF70 | €48,75 / CHF52.50|
+|  5 Lektionenpaket (__3% Rabatt__) | __€315,25 / CHF339.50__ | __€236 / CHF254__|
+|  10 Lektionenpaket (__5% Rabatt__) | __€617,50 / CHF665__ | __€463 / CHF498.75__|
 
-
+### Verfügbarkeit
+<iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

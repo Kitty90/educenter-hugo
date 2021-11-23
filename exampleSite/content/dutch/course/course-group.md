@@ -53,10 +53,10 @@ Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeke
 ##### Lesdata
 | Cursus | Dag & Tijdstip | Startdatum | Einddatum |
 |-|-|-|-| 
-| A1 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 3 januari 2022 | 2 februari 2022 |
-| A1 module 2 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 14 februari 2022 | 16 maart 2022 |
-| A2 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 21 maart 2022 | 25 april 2022 |
-| A2 module 2 | maandag & woensdag, 18.00 - 18.45 uur(CET)| 2 mei 2022 | 1 juni 2022 |
+| A1 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 14 februari 2022 | 16 maart 2022 |
+| A1 module 2 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 21 maart 2022 | 25 april 2022 |
+| A2 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 2 mei 2022 | 1 juni 2022 |
+| A2 module 2 | maandag & woensdag, 18.00 - 18.45 uur(CET)| 6 juni 2022 | 6 juli 2022 |
 | B1 module 1 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 15 februari 2022 | 17 maart 2022 |
 | B1 module 2 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 22 maart 2022 | 21 april 2022 |
 | B1 module 3 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 26 april 2022 | 2 juni 2022 |
