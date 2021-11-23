@@ -62,10 +62,10 @@ Students are required to purchase the following textbooks:
 ##### Course Dates
 | Course | Class Sessions (CET) | Start Date | End Date |
 |-|-|-|-|
-| A1 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 3 January, 2022 | 2 February, 2022 |
-| A1 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 14 February 2022 | 16 March, 2022 |
-| A2 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 21 March, 2022 | 25 April, 2022 |
-| A2 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 2 May, 2022 | 1 June, 2022 |
+| A1 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 14 February, 2022 | 16 March, 2022 |
+| A1 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 21 March 2022 | 25 April, 2022 |
+| A2 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 2 May, 2022 | 1 June, 2022 |
+| A2 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 6 June, 2022 | 6 July, 2022 |
 | B1 module 1 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 15 February, 2022 | 17 March, 2022 |
 | B1 module 2 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 22 March, 2022 | 21 April, 2022 |
 | B1 module 3 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 26 April, 2022 | 2 June, 2022 |
