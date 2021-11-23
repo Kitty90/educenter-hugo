@@ -24,13 +24,13 @@ type: "course"
 
 
 ### Over Proeflessen:
-Een proefles duurt 30 minuten en is de ideale manier om te ontdekken hoe ik u kan helpen en of mijn lesstijl bij u past. In de proefles zullen we:
-- kennismaken en elkaar een beetje leren kennen
-- uw huidige taalniveau bepalen of de uitslag van uw niveautest bespreken 
-- interesses, leerstijlen, en -doelen bespreken
-- in grote lijnen een opzet voor uw individuele leerplan maken. 
+Een proefles duurt 30 minuten en is de ideale manier om te ontdekken hoe ik je kan helpen en of mijn onderwijsstijl bij je past. In de proefles zullen we:
+- kennismaken en elkaar een beetje leren kennen;
+- je huidige taalniveau bepalen of de uitslag van uw niveautest bespreken; 
+- interesses, leerstijlen, en -doelen bespreken; en
+- in grote lijnen een opzet voor je individuele leerplan maken. 
 
-Voor de proefles ontvangt u een contactformulier en een niveautest om uw huidige taalvaardigheid te bepalen. Deze informatie geeft mij een beeld van je interesses en doelen, op basis waarvan ik een individueel leerplan voor u kan ontwikkelen. 
+Voor de proefles ontvang je een contactformulier en een niveautest om je huidige taalvaardigheid te bepalen. Deze informatie geeft mij een beeld van je interesses en doelen, op basis waarvan ik een individueel leerplan voor je kan ontwikkelen. 
 
 ### Beschikbaarheid
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
