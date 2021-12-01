@@ -43,8 +43,8 @@ I have developed course material for academic and business language use (levels 
 | | 1 uur privéles|  45 minuten privéles|
 |---|---|---|
 |  1 les  | €65 / CHF70 | €48,75 / CHF52.50|
-|  5-lessenpakket (__3% korting__) | __€315,25 / CHF339.50__ | __€236 / CHF254__|
-|  10-lessenpakket (__5% korting__) | __€617,50 / CHF665__ | __€463 / CHF498.75__|
+|  5-lessenpakket (__3% korting__) | __€315 / CHF339__ | __€236 / CHF254__|
+|  10-lessenpakket (__5% korting__) | __€617 / CHF665__ | __€463 / CHF499__|
 
 ### Beschikbaarheid
 <iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
