@@ -17,7 +17,7 @@ duration : "1 - 10 weken"
 # weekly
 weekly : "1 - 6 lessen"
 # course fee
-fee : "Vanaf €46 per les"
+fee : "Vanaf €42 per les"
 # apply url
 apply_url : "/contact"
 # type
