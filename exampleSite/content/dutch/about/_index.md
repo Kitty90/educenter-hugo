@@ -27,7 +27,7 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 * 2016 - 2017 : Freelance Educatief Auteur en Redacteur voor Diaplus  
 
 2015 - 2016 : Stagiair-docente Engels (IB), Maartenscollege Haren  
-2014 - 2014 : Stagiair-docente Engels, Rijnlands Lyceym Sassenheim
+2014 - 2014 : Stagiair-docente Engels, Rijnlands Lyceum Sassenheim  
 2012 - 2016 : Privédocente Engels, Nederlands en Frans
 
 
@@ -48,10 +48,10 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 
 ## Projecten 
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  
-[All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm) 
-[All Right! Max Online 3 havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
+[All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)   
+[All Right! Max Online 3 havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)    
 [All Right! Max Online 2 havo / vwo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
-[All Right! Max Online 2 vmbo-t / havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)
+[All Right! Max Online 2 vmbo-t / havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
 [All Right! Max Online 1 vmbo-t / havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
 [Diaplus Engels - Tekstenlab (Diataal)](https://www.diatoetsen.nl/voortgezet-onderwijs/diaplus/)
 
