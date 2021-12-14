@@ -53,7 +53,7 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 [All Right! Max Online 2 havo / vwo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
 [All Right! Max Online 2 vmbo-t / havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
 [All Right! Max Online 1 vmbo-t / havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)  
-[Diaplus Engels - Tekstenlab (Diataal)](https://www.diatoetsen.nl/voortgezet-onderwijs/diaplus/)
+[Diaplus Engels - Tekstenlab (Diataal)](https://www.diatoetsen.nl/voortgezet-onderwijs/diaplus/)  
 
 <div>
 <img height=200px src=/images/about/tekstenlab.png>
