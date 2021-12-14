@@ -1,11 +1,11 @@
 ---
 title: "Privé: Zakelijk en Academisch Engels of Nederlands"
 date: 2019-07-06T15:27:17+06:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/course/business.png"
 # meta description
-description : "Taakgerichte lessen in zakelijke en wetenschappelijke communicatievaardigheden."
+description : "Taakgerichte lessen in zakelijke en academische communicatievaardigheden."
 # course thumbnail
 image: "images/courses/business.png"
 # taxonomy
@@ -25,17 +25,16 @@ type: "course"
 ---
 
 
-### About the Classes:
-These classes are suited to learners with a low intermediate (B1) to advanced (C1) proficiency level. The lesson content depends on your interests, language level and needs. In these classes, you will study and practice language use in realistic workplace contexts and for a variety of professional purposes, such as:
-- job interviews,
-- presentations,
-- everyday oral communication in the workplace,
-- business writing (correspondence, reports, minutes) 
+### Zakelijke communicatielessen:
+Deze lessen zijn geschikt voor cursisten met een gemiddeld (B1) tot en met gevorderd (C1) taalniveau. De lesstof wordt afgestemd op de interesses, het taal niveau en de leerbehoeftes van de cursist. Tijdens de les wordt middels praktische en realistische oefeningen zakelijk en academisch taalgebruik geoefend. Scenarios die aan bod kunnen komen zijn bijvoorbeeld:
+- sollicitatiegesprekken,
+- presentaties,
+- alledaagse communicatie op het werk (microtaalhandelingen),
+- zakelijk schrijven (correspondentie, rapporten, notulen) 
 
 ### Teaching Method and Materials:
-In each lesson we will study and practice language use in a particular business context or for a specific purpose. In addition, you will be given homework assignments, usually in the form of a scenario-based writing or speaking task that requires you to practice the language functions we studied in class.
+In elke les staat er een specifiek zakelijk scenario centraal die de basis vormt voor taakgerichte oefeningen. Daarnaast ontvang je huiswerkopdrachten, vaak in de vorm van realistische schrijf- of spreektaken, om de behandelde lesstof te herhalen en te oefenen. 
 
-I have developed course material for academic and business language use (levels B1 - C1). The materials are generally task-based, focusing on language use in professional contexts. Please do not hesitate to let me know what your specific goals are, so I can tailor my content to your needs.
  </p>
 
 ### Tarieven
