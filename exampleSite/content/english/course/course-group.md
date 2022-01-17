@@ -16,7 +16,7 @@ teacher: "Kitty de Vries"
 # duration
 duration : "5 weeks"
 # weekly
-weekly : "1,5 hours"
+weekly : "2 hours"
 # course fee
 fee : "€195"
 # apply url
