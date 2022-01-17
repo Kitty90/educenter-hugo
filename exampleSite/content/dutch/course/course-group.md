@@ -15,9 +15,9 @@ teacher: "Kitty de Vries"
 # duration
 duration : "5 weken"
 # weekly
-weekly : "1,5 uur"
+weekly : "2 uur"
 # course fee
-fee : "€180"
+fee : "€195"
 # apply url
 apply_url : "/contact"
 # type
@@ -41,9 +41,9 @@ Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot en me
 #### Groepscurssen Nederlands 
 |Cursus | Duur | Lessen| Zelf-Studie | Cursusgeld |
 |-|-|-|-|-|
-| A1 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 4-6 uur per week | €180 per module |
-| A2 (2 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 4-6 uur per week | €180 per module |
-| B1 (4 modules) | 5 weken per module | 10 (2 * 45 minuten per week) | 4-6 uur per week | €180 per module |
+| A1 (2 modules) | 5 weken per module | 10 (2 * 1 uur per week) | 4-6 uur per week | €195 per module |
+| A2 (2 modules) | 5 weken per module | 10 (2 * 1 uur per week) | 4-6 uur per week | €195 per module |
+| B1 (4 modules) | 5 weken per module | 10 (2 * 1 uur per week) | 4-6 uur per week | €195 per module |
 
 #### Lesmateriaal
 Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeken. Voor de lessen worden de volgende boeken gebruikt:
@@ -53,13 +53,10 @@ Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeke
 ##### Lesdata
 | Cursus | Dag & Tijdstip | Startdatum | Einddatum |
 |-|-|-|-| 
-| A1 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 14 februari 2022 | 16 maart 2022 |
-| A1 module 2 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 21 maart 2022 | 25 april 2022 |
-| A2 module 1 | maandag & woensdag, 18.00 - 18.45 uur (CET)| 2 mei 2022 | 1 juni 2022 |
-| A2 module 2 | maandag & woensdag, 18.00 - 18.45 uur(CET)| 6 juni 2022 | 6 juli 2022 |
-| B1 module 1 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 15 februari 2022 | 17 maart 2022 |
-| B1 module 2 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 22 maart 2022 | 21 april 2022 |
-| B1 module 3 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 26 april 2022 | 2 juni 2022 |
-| B1 module 4 | dinsdag & donderdag, 18.00 - 18.45 uur (CET)| 7 juni 2022 | 7 juli 2022 |
+| A1 module 1 | maandag & woensdag, 18.00 - 19.00 uur (CET)| 14 februari 2022 | 16 maart 2022 |
+| A1 module 2 | maandag & woensdag, 18.00 - 19.00 uur (CET)| 21 maart 2022 | 25 april 2022 |
+| A2 module 1 | maandag & woensdag, 18.00 - 19.00 uur (CET)| 2 mei 2022 | 1 juni 2022 |
+| A2 module 2 | maandag & woensdag, 18.00 - 19.00 uur (CET)| 6 juni 2022 | 6 juli 2022 |
+
 
 

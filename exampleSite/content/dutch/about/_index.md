@@ -15,7 +15,7 @@ Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn pas
 Ik ben opgegroeid in een klein dorpje op het platteland, 5 minuten van de Duitse grens, en was van kleins af aan al gefascineerd door vreemde talen, landen en culturen. Na het afronden van mijn studie in Groningen heb ik als docent Engels op middelbare scholen in Nederland gewerkt. In 2016 kreeg ik echter de mogelijkheid om op afstand te werken voor Nederlandse educatieve uitgeverijen en ben ik naar Spanje vertrokken. Mijn nieuwsgierigheid naar digitale leermiddelen leidde me terug naar het noorden; in 2018 verhuisde ik naar België om aan de KU Leuven onderwijstechnologie te studeren. Sinds 2020 woon ik in Zwitserland en werk ik online als leermiddelenontwikkelaar en docente Nederlands en Engels. Hoewel ik niet meer in Nederland woon, ben ik nog regelmatig in Nederland te vinden. 
 
 ## Talenkennis
-Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Frans (B2), Italiaans (B1), Portugees (A2) en Mandarijn Chinees (A2).
+Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Frans (B2), Nedersaksisch (B2), Italiaans (B1), Portugees (A2) en Mandarijn Chinees (A2).
 
 ## Werkervaring
 

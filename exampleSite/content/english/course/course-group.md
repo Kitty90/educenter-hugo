@@ -18,7 +18,7 @@ duration : "5 weeks"
 # weekly
 weekly : "1,5 hours"
 # course fee
-fee : "€180"
+fee : "€195"
 # apply url
 apply_url : "/contact"
 # type
@@ -48,9 +48,9 @@ Feel free to contact me for a placement test or private lessons.
 #### Course Structure 
 | Course | Duration | Lessons| Self Study | Fee |
 |-|-|-|-|-|
-| A1 (2 modules) | 5 weeks per module  | 10 (2 * 45 minutes per week) | 4-6 hours per week | €180 per module |
-| A2 (2 modules) | 5 weeks per module  | 10 (2 * 45 minutes per week) | 4-6 hours per week | €180 per module |
-| B1 (4 modules) | 5 weeks per module | 10 (2 * 45 minutes per week) | 4-6 hours per week | €180 per module |
+| A1 (2 modules) | 5 weeks per module  | 10 (2 * 60 minutes per week) | 4-6 hours per week | €195 per module |
+| A2 (2 modules) | 5 weeks per module  | 10 (2 * 60 minutes per week) | 4-6 hours per week | €195 per module |
+| B1 (4 modules) | 5 weeks per module | 10 (2 * 60 minutes per week) | 4-6 hours per week | €195 per module |
 
 __A true beginner can reach the level required for the Civic Integration Exam (B1) in 40 weeks (8 modules of 5 weeks each).__
 
@@ -62,13 +62,8 @@ Students are required to purchase the following textbooks:
 ##### Course Dates
 | Course | Class Sessions (CET) | Start Date | End Date |
 |-|-|-|-|
-| A1 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 14 February, 2022 | 16 March, 2022 |
-| A1 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 21 March 2022 | 25 April, 2022 |
-| A2 module 1 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 2 May, 2022 | 1 June, 2022 |
-| A2 module 2 | Mondays & Wednesdays, 18.00 - 18.45 (CET)| 6 June, 2022 | 6 July, 2022 |
-| B1 module 1 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 15 February, 2022 | 17 March, 2022 |
-| B1 module 2 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 22 March, 2022 | 21 April, 2022 |
-| B1 module 3 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 26 April, 2022 | 2 June, 2022 |
-| B1 module 4 | Tuesdays & Thursdays, 18.00 - 18.45 (CET)| 7 June, 2022 | 7 July, 2022 |
-
+| A1 module 1 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 14 February, 2022 | 16 March, 2022 |
+| A1 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 21 March 2022 | 25 April, 2022 |
+| A2 module 1 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 2 May, 2022 | 1 June, 2022 |
+| A2 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 6 June, 2022 | 6 July, 2022 |
 

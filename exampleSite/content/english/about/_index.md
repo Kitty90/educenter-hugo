@@ -15,7 +15,7 @@ I am an avid language learner, a passionate language teacher and an experienced 
 I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. After obtaining my degrees in English and applied linguistics, I worked as a secondary English teacher in the Netherlands. However, I moved to Spain in 2016 when I started working remotely for Dutch educational publishers. Eager to learn more about educational technology, I moved to Belgium in 2018 to pursue another master's degree at KU Leuven. I now live in Switzerland, working remotely as a language teacher and educational content developer. Although I no longer live in the Netherlands, I regularly travel home for work, and to see family and friends. 
 
 ## Languages
-Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2), Italian (B1), Portuguese (A2) and Mandarin Chinese (A2).
+Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2), Dutch Low Saxon (B2), Italian (B1), Portuguese (A2) and Mandarin Chinese (A2).
 
 ## PROFESSIONAL EXPERIENCE
 
