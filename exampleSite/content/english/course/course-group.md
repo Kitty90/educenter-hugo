@@ -66,4 +66,3 @@ Students are required to purchase the following textbooks:
 | A1 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 21 March 2022 | 25 April, 2022 |
 | A2 module 1 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 2 May, 2022 | 1 June, 2022 |
 | A2 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 6 June, 2022 | 6 July, 2022 |
-

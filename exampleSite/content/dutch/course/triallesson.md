@@ -32,10 +32,5 @@ Een proefles duurt 30 minuten en is de ideale manier om te ontdekken hoe ik je k
 
 Voor de proefles ontvang je een contactformulier en een niveautest om je huidige taalvaardigheid te bepalen. Deze informatie geeft mij een beeld van je interesses en doelen, op basis waarvan ik een individueel leerplan voor je kan ontwikkelen. 
 
-### Beschikbaarheid
-<iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-</p>
-<a href='https://www.freepik.com/vectors/sale'>vector created by pch.vector - www.freepik.com</a>
 
 

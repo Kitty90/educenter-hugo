@@ -10,6 +10,10 @@
     </div>
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
+        {{ .Content }}
+        <a href="https://bookwhen.com/kittydevries" title="Book online"><img src="https://d1abtw6bgq2xi2.cloudfront.net/images/bookonline_button.png" alt="Book online" style="width:105px;height:22px;margin-top: 0.5em; margin-bottom: 0.5em;" /></a><br>
+        <a href="https://api.whatsapp.com/send?phone={{ site.Params.mobile }}" class="text-color h5 d-block">WhatsApp</a>
+        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
         <!-- <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email">
@@ -19,10 +23,11 @@
         </form> -->
       </div>
       <div class="col-lg-5 content">
-        {{ .Content }}
-        <a href="https://api.whatsapp.com/send?phone={{ site.Params.mobile }}" class="text-color h5 d-block">WhatsApp</a>
-        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
+        <h3 id="working-hours">Working hours</h3>
+        <p>Mo - Thu 9:00 - 12:00 and 13:00 - 18:00 (CET)</p>
         <!-- <p>{{ site.Params.address | markdownify }}</p> -->
+       
+        
       </div>
     </div>
   </div>

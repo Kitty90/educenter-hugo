@@ -33,9 +33,9 @@ These classes are suited to learners with a low intermediate (B1) to advanced (C
 - business writing (correspondence, reports, minutes) 
 
 ### Teaching Method and Materials:
-In each lesson we will study and practice language use in a particular business context or for a specific purpose. In addition, you will be given homework assignments, usually in the form of a scenario-based writing or speaking task that requires you to practice the language functions we studied in class.
+In each lesson we will study and practice language use in a particular business context or for a specific purpose. In addition, you will be given homework assignments, usually in the form of a scenario-based writing or speaking task that requires you to review the content we studied in class.
 
-I have developed course material for academic and business language use (levels B1 - C1). The materials are generally task-based, focusing on language use in professional contexts. Please do not hesitate to let me know what your specific goals are, so I can tailor my content to your needs.
+I have developed course material about academic and business language (levels B1 - C1). The materials are generally task-based, focusing on language use in professional contexts. Please do not hesitate to let me know what your specific goals are, so I can tailor my content to your needs.
  </p>
 
 ### Rates
@@ -44,6 +44,3 @@ I have developed course material for academic and business language use (levels 
 |  1 lesson  | €65 / CHF70 | €48,75 / CHF52.50|
 |  5-lesson package (__3% discount__) | __€315 / CHF339__ | __€236 / CHF254__|
 |  10-lesson package (__5% discount__) | __€617 / CHF665__ | __€463 / CHF499__|
-
-### Availability
-<iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>

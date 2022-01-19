@@ -31,10 +31,6 @@ Book a trial lesson with me to find out how I can help you achieve your language
 
 Prior to your trial lesson, you will be sent a contact form and a language level test for a preliminary assessment of your present language skills. This information will give me a better idea of your interests, goals and needs, so I can develop a bespoke learning plan for you.
 
-### Availability
-<iframe src="https://calendar.google.com/calendar/embed?src=oijqsb1csqod0ecm1laeb8qgdk%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 </p>
-<a href='https://www.freepik.com/vectors/sale'>vector created by pch.vector - www.freepik.com</a>
 
 
