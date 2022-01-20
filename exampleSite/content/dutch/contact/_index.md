@@ -7,7 +7,7 @@ bg_image: "images/about/about-page.png"
 description : ""
 ---
 
-Are you interested in taking classes? Or would you like to discuss a potential collaboration? Please do not hesitate to contact me. 
-
+Wilt u graag lessen volgen? Klikt u dan op de knop om een les te boeken. 
+Wilt u een mogelijke samenwerking bespreken, neemt u dan contact met mij op voor een oriënterend gesprek. 
 
 
