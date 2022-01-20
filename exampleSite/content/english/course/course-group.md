@@ -48,9 +48,9 @@ Feel free to contact me for a placement test or private lessons.
 #### Course Structure 
 | Course | Duration | Lessons| Self Study | Fee |
 |-|-|-|-|-|
-| A1 (2 modules) | 5 weeks per module  | 10 (2 * 60 minutes per week) | 4-6 hours per week | €190 per module |
-| A2 (2 modules) | 5 weeks per module  | 10 (2 * 60 minutes per week) | 4-6 hours per week | €190 per module |
-| B1 (4 modules) | 5 weeks per module | 10 (2 * 60 minutes per week) | 4-6 hours per week | €190 per module |
+| A1 (2 modules) | 5 weeks per module  | 20 (2 * 60 minutes per week) | 4-6 hours per week | €190 per module |
+| A2 (2 modules) | 5 weeks per module  | 20 (2 * 60 minutes per week) | 4-6 hours per week | €190 per module |
+| B1 (4 modules) | 5 weeks per module | 20 (2 * 60 minutes per week) | 4-6 hours per week | €190 per module |
 
 __A true beginner can reach the level required for the Civic Integration Exam (B1) in 40 weeks (8 modules of 5 weeks each).__
 

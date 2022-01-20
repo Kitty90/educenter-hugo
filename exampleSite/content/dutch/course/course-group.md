@@ -41,9 +41,9 @@ Op dit moment bied ik groepscurssusen Nederlands aan op taalniveaus A0 tot en me
 #### Groepscurssen Nederlands 
 |Cursus | Duur | Lessen| Zelf-Studie | Cursusgeld |
 |-|-|-|-|-|
-| A1 (2 modules) | 5 weken per module | 10 (2 * 1 uur per week) | 4-6 uur per week | €190 per module |
-| A2 (2 modules) | 5 weken per module | 10 (2 * 1 uur per week) | 4-6 uur per week | €190 per module |
-| B1 (4 modules) | 5 weken per module | 10 (2 * 1 uur per week) | 4-6 uur per week | €190 per module |
+| A1 (2 modules) | 5 weken per module | 20 (2 * 1 uur per week) | 4-6 uur per week | €190 per module |
+| A2 (2 modules) | 5 weken per module | 20 (2 * 1 uur per week) | 4-6 uur per week | €190 per module |
+| B1 (4 modules) | 5 weken per module | 20 (2 * 1 uur per week) | 4-6 uur per week | €190 per module |
 
 #### Lesmateriaal
 Cursisten zijn zelf verantwoordelijk voor het tijdig aanschaffen van de lesboeken. Voor de lessen worden de volgende boeken gebruikt:
