@@ -1,7 +1,7 @@
 ---
 title: "Dutch Group Courses"
 date: 2019-07-06T15:27:17+06:00
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
@@ -24,7 +24,6 @@ apply_url : "/contact"
 # type
 type: "course"
 ---
-
 
 ### Speak Dutch right from the first lesson!
 How can we learn languages fast and efficienctly? By studying and, more importantly, using them in real-life contexts. As a language teacher, I have seen many Dutch learners achieve astoundingly quick results using the tried-and-tested Delft method, which is renowned for its strong focus on communication skills instead of grammar. 
@@ -63,6 +62,6 @@ Students are required to purchase the following textbooks:
 | Course | Class Sessions (CET) | Start Date | End Date |
 |-|-|-|-|
 | A1 module 1 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 14 February, 2022 | 16 March, 2022 |
-| A1 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 21 March 2022 | 25 April, 2022 |
+| A1 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 21 March, 2022 | 25 April, 2022 |
 | A2 module 1 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 2 May, 2022 | 1 June, 2022 |
 | A2 module 2 | Mondays & Wednesdays, 18.00 - 19.00 (CET)| 6 June, 2022 | 6 July, 2022 |
