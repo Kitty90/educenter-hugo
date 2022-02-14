@@ -38,5 +38,5 @@ Voor privécursisten maak ik lesplannen op maat, gericht op hun specifieke taald
 |---|---|---|
 |  1 les  | €60 / CHF62.5 | €45 / CHF47|
 |  5-lessenpakket (__3% korting__) | __€291 / CHF303__ | __€218 / CHF228__|
-|  10-lessenpakket (__5% korting__) | __€570 / CHF594__ | __€422 / CHF446__|
+|  10-lessenpakket (__5% korting__) | __€570 / CHF594__ | __€427 / CHF446__|
 

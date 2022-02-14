@@ -38,6 +38,6 @@ Private classes are highly individualised, since different learners have differe
 |---|---|---|
 |  1 lesson  | €60 / CHF62.5 | €45 / CHF47|
 |  5-lesson package (__3% discount__) | __€291 / CHF303__ | __€218 / CHF228__|
-|  10-lesson package (__5% discount__) | __€570 / CHF594__ | __€422 / CHF446__||
+|  10-lesson package (__5% discount__) | __€570 / CHF594__ | __€427 / CHF446__||
 </p>
 
