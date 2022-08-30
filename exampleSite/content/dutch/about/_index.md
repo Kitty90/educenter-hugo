@@ -32,7 +32,6 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 
 
 ## Opleiding
-2021 - heden : BA Chinees, Universiteit Dalarna   
 2018 - 2020 : MA Education for Sustainable Development, Universiteit Göteborg  
 2018 - 2019 : MSc Digital Humanities - Educational Technology (magna cum laude), KU Leuven  
 2015 - 2016 : Postmaster Leraar Voorbereidend Hoger Onderwijs, Rijksuniversiteit Groningen  
@@ -47,6 +46,7 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 2018 : ToEFL iBT C2 Engels (score: 117/120)  
 
 ## Projecten 
+[Leerlingvolgsysteem Engels BES-eilanden (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes/)
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  
 [All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)   
 [All Right! Max Online 3 havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)    

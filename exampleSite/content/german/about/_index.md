@@ -1,6 +1,6 @@
 ---
 title: "Über Uns"
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
@@ -11,7 +11,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 
 
 ## <img height=200px src=/images/about/kitty.jpeg> Wer ist Kitty? 
-Ich bin sprachbegeistert und teile als Lehrerin und Lehrmittelautorin bereits 9 Jahre mit viel Freude meine Leidenschaft für Sprachen. Ich habe an der Universität Groningen Einen bachelorstudium  Englisch und einen Masterstudium in Angewandte Sprachwissenschaften absolviert. Dazu habe ich auch einen Masterstudium in Digital Humanities an der Universität Leuven gemacht. 
+Ich bin sprachbegeistert und teile als Lehrerin und Lehrmittelautorin bereits 10 Jahre mit viel Freude meine Leidenschaft für Sprachen. Ich habe an der Universität Groningen Einen bachelorstudium Englisch und einen Masterstudium in Angewandte Sprachwissenschaften absolviert. Dazu habe ich auch einen Masterstudium in Digital Humanities an der Universität Leuven gemacht. 
 
 Ich bin erwachsen worden in ein kleines Dorf im Osten der Niederlande, wenige Minuten von der Deutsche Grenze. Als ich klein war, haben Sprachen und fremde Kulturen mir schon fasziniert. Nach meinem Studium in Groningen habe ich als Sprachlehrerin für die Oberstufe gearbeitet. In 2016 bekam ich jedoch die Möglichkeit im Ausland zu ziehen und im Homeoffice als Lehrmittelautorin zu arbeiten. Meine Neugierde führte mich doch wieder nach dem Norden: in 2018 zog ich nach Belgien um Lehrmitteltechnologie zu studieren. Seit 2020 wohne ich in der Schweiz und arbeite ich als online Lehrmittelautorin und Sprachlehrerin Englisch und Niederländisch. Obwohl ich nicht mehr in die Niederlande lebe, kan mann mich regelmässig in mein Heimatland finden. 
 
@@ -22,30 +22,30 @@ Ik ben opgegroeid in een klein dorpje op het platteland, 5 minuten van de Duitse
 ## Sprachkenntnisse
 Kitty spricht Niederländisch (Muttersprache), Englisch (C2), Deutsch (C1), Spanisch (C1), Französisch (B2), Niedersächsisch (B2), Italiaans (B1), Portugees (A2) en Mandarijn Chinees (A2).
 
-## Werkervaring
+## Arbeitserfahrung
 
-2016 - heden: Kitty de Vries Language Education  
-* 2021 - heden : Docente Engels en Nederlands als tweede taal | Leermiddelenontwikkelaar  
-2019 - 2020 : Freelance E-learning Auteur Hogeschooltaal voor Noordhoff
-* 2016 - 2019 : Freelance Educatief Auteur van lesmethode All Right! voor Malmberg  
-* 2016 - 2017 : Freelance Trainer en Vertaler voor Eagle Productivity Solutions  
-* 2016 - 2017 : Freelance Educatief Auteur en Redacteur voor Diaplus  
+2016 - heute: Kitty de Vries Language Education  
+* 2021 - heute : Docente Engels en Nederlands als tweede taal
+* 2022 - heute : Freiberufliche Prüfungsentwicklerin bei Bureau ICE
+* 2019 - 2020 : Freiberufliche E-learning Autorin für Hogeschooltaal Engels (Noordhoff)
+* 2016 - 2019 : Freiberufliche Verfasser von Textbücher All Right! voor Malmberg  
+* 2016 - 2017 : Freiberufliche Trainer und Übersetzerin für Eagle Productivity Solutions  
+* 2016 - 2017 : Freiberufliche Autorin und Redaktorin für voor Diaplus  
 
-2015 - 2016 : Stagiair-docente Engels (IB), Maartenscollege Haren  
-2014 - 2014 : Stagiair-docente Engels, Rijnlands Lyceum Sassenheim  
-2012 - 2016 : Privédocente Engels, Nederlands en Frans
+2015 - 2016 : Englischlehrerin (IB), Maartenscollege Haren  
+2014 - 2014 : Englischlehrerin, Rijnlands Lyceum Sassenheim  
+2012 - 2016 : Privatlehrerin für Englisch, Niederländisch und Französisch
 
 
-## Opleiding
-2021 - heden : BA Chinees, Universiteit Dalarna   
+## Ausbildung
 2018 - 2020 : MA Education for Sustainable Development, Universiteit Göteborg  
 2018 - 2019 : MSc Digital Humanities - Educational Technology (magna cum laude), KU Leuven  
 2015 - 2016 : Postmaster Leraar Voorbereidend Hoger Onderwijs, Rijksuniversiteit Groningen  
 2013 - 2014 : MA Toegepaste Taalwetenschappen - TEFL, Rijksuniversiteit Groningen    
 2010 - 2013 : BA Engelse taal en cultuur, Rijksuniversiteit Groningen 
-- Minoren: Italiaanse taalvaardigheid (B1), Meertaligheid, Middeleeuwen- en Renaissancestudies
+- Nebenfächer: Italienisch (B1), Mehrsprachigkeit, Mittelalter- und Renaissancestudien
 
-2009 - 2010 : BA Romaanse talen en culturen - Frans, Rijksuniversiteit Groningen  
+2009 - 2010 : BA Romanische Sprachen und Kulturen - Frans, Rijksuniversiteit Groningen  
 
 ## Certificaten 
 2021 : Goethe C1 Duits (score: 88/100)  

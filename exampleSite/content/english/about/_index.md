@@ -20,8 +20,9 @@ Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2
 ## PROFESSIONAL EXPERIENCE
 
 2016 - present: Kitty de Vries Language Education  
-* 2021 - present : Private Teacher of English and Dutch | Educational Content Developer  
-2019 - 2020 : Freelance E-learning Author English for Academic and Business Purposes for Hogeschooltaal  
+* 2021 - present : Private Teacher of English and Dutch
+* 2022 - present : Freelance English Test Developer for Bureau ICE 
+* 2019 - 2020 : Freelance E-learning Author English for Academic and Business Purposes for Hogeschooltaal  
 * 2016 - 2019 : Freelance ESL Textbook Author of All Right! for Malmberg  
 * 2016 - 2017 : Freelance Corporate Trainer and Translator for Eagle Productivity Solutions  
 * 2016 - 2017 : Freelance Educational Author and Editor for Diaplus  
@@ -32,7 +33,6 @@ Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2
 
 
 ## EDUCATION
-2021 - present : BA Chinese, Dalarna University   
 2018 - 2020 : MA Education for Sustainable Development, Gothenburg University  
 2018 - 2019 : MSc Digital Humanities - Educational Technology (with Great Distinction), KU Leuven  
 2015 - 2016 : Teacher Training, University of Groningen  
@@ -47,6 +47,7 @@ Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2
 2018 : ToEFL iBT C2 English (score: 117/120)  
 
 ## PORTFOLIO 
+[English Pupil Monitoring System BES islands (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes-engels/)
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  
 [All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)   
 [All Right! Max Online 3 havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)    
