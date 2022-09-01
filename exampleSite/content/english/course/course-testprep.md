@@ -46,6 +46,6 @@ After class, you will do the writing, reading and listening tasks of the officia
 | |  private 60-minute lesson |  private 45-minute lesson|
 |---|---|---|
 |  1 lesson  | € 60  | €45 |
-|  5-lesson package (__3% discount) | __€291__ | __€218,25__|
-|  10-lesson package (__5% discount) | __€570__ | __€422,50__|
+|  5-lesson package (__3% discount__) | __€291__ | __€218,25__|
+|  10-lesson package (__5% discount__) | __€570__ | __€422,50__|
 

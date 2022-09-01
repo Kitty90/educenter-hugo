@@ -42,5 +42,5 @@ I have developed course material about academic and business language (levels B1
 | |  private 60-minute lesson |  private 45-minute lesson|
 |---|---|---|
 |  1 lesson  | € 60  | €45 |
-|  5-lesson package (__3% discount) | __€291__ | __€218,25__|
-|  10-lesson package (__5% discount) | __€570__ | __€422,50__|
+|  5-lesson package (__3% discount__) | __€291__ | __€218,25__|
+|  10-lesson package (__5% discount__) | __€570__ | __€422,50__|
