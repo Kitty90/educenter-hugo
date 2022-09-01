@@ -10,7 +10,7 @@ description : ""
 ---
 
 ## <img height=200px src=/images/about/kitty.jpeg> Over Kitty 
-Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn passie voor talen als docent en educatief auteur en redacteur. Ik heb aan de Rijksuniversiteit Groningen een bachelor Engelse taal en cultuur en een master in Toegepaste Taalwetenschappen afgerond. Daarnaast heb ik ook een masterstudie in Digital Humanities gevolgd aan de KU Leuven en heb ik Onderwijs voor Duurzame Ontwikkeling gestudeerd aan de Universiteit van Göteborg. Momenteel volg ik een bachelorstudie Chinees. 
+Ik ben een fervente taalleerder en deel al ruim 9 jaar met veel plezier mijn passie voor talen als docent en educatief auteur en redacteur. Ik heb aan de Rijksuniversiteit Groningen een bachelor Engelse taal en cultuur en een master in Toegepaste Taalwetenschappen afgerond. Daarnaast heb ik ook een masterstudie in Digital Humanities gevolgd aan de KU Leuven en heb ik Onderwijs voor Duurzame Ontwikkeling gestudeerd aan de Universiteit van Göteborg. 
 
 Ik ben opgegroeid in een klein dorpje op het platteland, 5 minuten van de Duitse grens, en was van kleins af aan al gefascineerd door vreemde talen, landen en culturen. Na het afronden van mijn studie in Groningen heb ik als docent Engels op middelbare scholen in Nederland gewerkt. In 2016 kreeg ik echter de mogelijkheid om op afstand te werken voor Nederlandse educatieve uitgeverijen en ben ik naar Spanje vertrokken. Mijn nieuwsgierigheid naar digitale leermiddelen leidde me terug naar het noorden; in 2018 verhuisde ik naar België om aan de KU Leuven onderwijstechnologie te studeren. Sinds 2020 woon ik in Zwitserland en werk ik online als leermiddelenontwikkelaar en docente Nederlands en Engels. Hoewel ik niet meer in Nederland woon, ben ik nog regelmatig in Nederland te vinden. 
 
@@ -24,7 +24,7 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 2019 - 2020 : Freelance E-learning Auteur Hogeschooltaal voor Noordhoff
 * 2016 - 2019 : Freelance Educatief Auteur van lesmethode All Right! voor Malmberg  
 * 2016 - 2017 : Freelance Trainer en Vertaler voor Eagle Productivity Solutions  
-* 2016 - 2017 : Freelance Educatief Auteur en Redacteur voor Diaplus  
+* 2016 - 2017 : Freelance Educatief Auteur en Redacteur voor Diataal 
 
 2015 - 2016 : Stagiair-docente Engels (IB), Maartenscollege Haren  
 2014 - 2014 : Stagiair-docente Engels, Rijnlands Lyceum Sassenheim  
@@ -46,7 +46,7 @@ Kitty spreekt Nederlands (moedertaal), Engels (C2), Duits (C1), Spaans (C1), Fra
 2018 : ToEFL iBT C2 Engels (score: 117/120)  
 
 ## Projecten 
-[Leerlingvolgsysteem Engels BES-eilanden (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes/)
+[Leerlingvolgsysteem Engels BES-eilanden (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes/)  
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  
 [All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)   
 [All Right! Max Online 3 havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)    

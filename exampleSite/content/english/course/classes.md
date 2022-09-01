@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 6 lessons"
 # course fee
-fee : "From: €42 per class"
+fee : "From: €39 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -36,8 +36,9 @@ Private classes are highly individualised, since different learners have differe
 
 | |  private 60-minute lesson |  private 45-minute lesson|
 |---|---|---|
-|  1 lesson  | €60 / CHF62.5 | €45 / CHF47|
-|  5-lesson package (__3% discount__) | __€291 / CHF303__ | __€218 / CHF228__|
-|  10-lesson package (__5% discount__) | __€570 / CHF594__ | __€427 / CHF446__||
+|  1 lesson  | €55 | €41,25 |
+|  5-lesson package (__3% discount__)| __€266,75__ | __€200__|
+|  10-lesson package (__5% discount__) | __€522,50__ | __€391__|
+
 </p>
 

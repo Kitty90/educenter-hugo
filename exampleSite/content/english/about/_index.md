@@ -10,7 +10,7 @@ description : ""
 ---
 
 ## <img height=200px src=/images/about/kitty.jpeg> ABOUT KITTY 
-I am an avid language learner, a passionate language teacher and an experienced textbook author. I live and breathe languages and have been referred to as an 'education junkie'. My academic background is in English literature and linguistics (BA), language teaching and development (MA), educational technology (MSc) and education for sustainable development. I am currently pursuing a bachelor's degree in Chinese. 
+I am an avid language learner, a passionate language teacher and an experienced textbook author. I live and breathe languages and have been referred to as an 'education junkie'. My academic background is in English literature and linguistics (BA), language teaching and development (MA), educational technology (MSc) and education for sustainable development. 
 
 I come from a tiny town in the Dutch countryside, but have always been intrigued by foreign languages and cultures. After obtaining my degrees in English and applied linguistics, I worked as a secondary English teacher in the Netherlands. However, I moved to Spain in 2016 when I started working remotely for Dutch educational publishers. Eager to learn more about educational technology, I moved to Belgium in 2018 to pursue another master's degree at KU Leuven. I now live in Switzerland, working remotely as a language teacher and educational content developer. Although I no longer live in the Netherlands, I regularly travel home for work, and to see family and friends. 
 
@@ -47,7 +47,7 @@ Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2
 2018 : ToEFL iBT C2 English (score: 117/120)  
 
 ## PORTFOLIO 
-[English Pupil Monitoring System BES islands (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes-engels/)
+[English Pupil Monitoring System BES islands (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes-engels/)  
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  
 [All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)   
 [All Right! Max Online 3 havo (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)    

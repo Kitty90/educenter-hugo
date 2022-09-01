@@ -17,7 +17,7 @@ duration : "1 - 10 weken"
 # weekly
 weekly : "1 - 2 lessen"
 # course fee
-fee : "Vanaf €46 per les"
+fee : "Vanaf €42 per les"
 # apply url
 apply_url : "/contact"
 # type
@@ -41,6 +41,6 @@ In elke les staat er een specifiek zakelijk scenario centraal die de basis vormt
 
 | | 1 uur privéles|  45 minuten privéles|
 |---|---|---|
-|  1 les  | €65 / CHF70 | €48,75 / CHF52.50|
-|  5-lessenpakket (__3% korting__) | __€315 / CHF339__ | __€236 / CHF254__|
-|  10-lessenpakket (__5% korting__) | __€617 / CHF665__ | __€463 / CHF499__|
+|  1 les  | € 60  | €45 |
+|  5-lessenpakket (__3% korting__) | __€291__ | __€218,25__|
+|  10-lessenpakket (__5% korting__) | __€570__ | __€422,50__|
