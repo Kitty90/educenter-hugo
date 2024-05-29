@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 6 lessons"
 # course fee
-fee : "From: €39 per class"
+fee : "From: €42 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -36,9 +36,9 @@ Private classes are highly individualised, since different learners have differe
 
 | |  private 60-minute lesson |  private 45-minute lesson|
 |---|---|---|
-|  1 lesson  | €55 | €41,25 |
-|  5-lesson package (__3% discount__)| __€266,75__ | __€200__|
-|  10-lesson package (__5% discount__) | __€522,50__ | __€391__|
+|  1 lesson  | €60 | €45 |
+|  5-lesson package (__3% discount__)| __€291__ | __€219__|
+|  10-lesson package (__5% discount__) | __€570__ | __€427.50__|
 
 </p>
 

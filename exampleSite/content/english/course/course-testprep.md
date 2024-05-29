@@ -17,7 +17,7 @@ duration : "1 - 10 weeks"
 # weekly
 weekly : "1 - 2 lessons"
 # course fee
-fee : "From: €42 per class"
+fee : "From: €54 per class"
 # apply url
 apply_url : "/contact"
 # type
@@ -45,7 +45,6 @@ After class, you will do the writing, reading and listening tasks of the officia
 ### Rates
 | |  private 60-minute lesson |  private 45-minute lesson|
 |---|---|---|
-|  1 lesson  | € 60  | €45 |
-|  5-lesson package (__3% discount__) | __€291__ | __€218,25__|
-|  10-lesson package (__5% discount__) | __€570__ | __€422,50__|
+|  1 lesson  | € 75  | €56.25 |
+|  5-lesson package (__3% discount__) | __€363__ | __€272__|
 

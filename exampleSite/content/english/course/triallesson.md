@@ -15,7 +15,7 @@ teacher: "Kitty de Vries"
 # duration
 duration : "30 mins"
 # course fee
-fee : "€20"
+fee : "€25"
 # apply url
 apply_url : "/contact"
 # type
