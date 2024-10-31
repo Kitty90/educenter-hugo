@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on Kitty de Vries Language Education</title>
-    <link>https://www.kittydevries.com/nl/tags/automation/</link>
+    <link>http://localhost:1313/nl/tags/automation/</link>
     <description>Recent content in Automation on Kitty de Vries Language Education</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>nl</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.kittydevries.com/nl/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/nl/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How long does it take to reach a certain language level?</title>
-      <link>https://www.kittydevries.com/nl/blog/blog-post-1/</link>
+      <link>http://localhost:1313/nl/blog/blog-post-1/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://www.kittydevries.com/nl/blog/blog-post-1/</guid>
-      <description>How long does it take to reach a certain level? ||classes|minimum study hours|total| |&amp;mdash;|&amp;mdash;|&amp;mdash;| |A0 - A1| 40-60 hrs | 20-40 hrs |60-100 hrs| |A1 - A2| 100-60 hrs | 30-60 hrs |100-200 hrs| |A2 - B1.</description>
+      <guid>http://localhost:1313/nl/blog/blog-post-1/</guid>
+      <description>&lt;h4 id=&#34;how-long-does-it-take-to-reach-a-certain-level&#34;&gt;How long does it take to reach a certain level?&lt;/h4&gt;&#xA;&lt;p&gt;||classes|minimum study hours|total|&#xA;|&amp;mdash;|&amp;mdash;|&amp;mdash;|&#xA;|A0 - A1| 40-60 hrs | 20-40 hrs |60-100 hrs|&#xA;|A1 - A2| 100-60 hrs | 30-60 hrs |100-200 hrs|&#xA;|A2 - B1.1| 8 weeks | 10 weeks | 13 weeks|&#xA;|B1.1 - B1.2| 8 weeks | 10 weeks |&#xA;|B1.2 - B2.1|8 weeks |10 weeks|&#xA;|B2.1 - B2.2|8 weeks |10 weeks|&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

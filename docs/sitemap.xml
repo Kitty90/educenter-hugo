@@ -2,16 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://www.kittydevries.com/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
       <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://www.kittydevries.com/nl/sitemap.xml</loc>
-    
-      <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <loc>http://localhost:1313/nl/sitemap.xml</loc>
     
   </sitemap>
   
