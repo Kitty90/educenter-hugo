@@ -93,9 +93,6 @@
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/french/course/course-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
@@ -134,9 +131,6 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/deep-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/french/blog/blog-post-1/</loc>
@@ -265,12 +259,6 @@
     <loc>http://localhost:1313/english/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/french/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/course/course-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/dutch/course/triallesson/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
@@ -304,28 +292,13 @@
     <loc>http://localhost:1313/french/notice/notice-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/french/course/course-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/mathmatics-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/course/course-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/event/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dutch/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/german/notice/</loc>
@@ -335,9 +308,6 @@
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/dutch/research/</loc>
@@ -445,13 +415,6 @@
   </url><url>
     <loc>http://localhost:1313/german/notice/notice-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/course/course-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/english/about/</loc>
   </url><url>
