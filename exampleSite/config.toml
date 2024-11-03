@@ -4,7 +4,7 @@ title = "Kitty de Vries Language Education"
 theme = "educenter-hugo"
 themesDir = "../.."
 # post pagination
-pagination.pagerSize = "6"
+paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -98,7 +98,7 @@ link = "http://www.linkedin.com/in/kittydevries1"
 
 
 ################################### English language #####################################
-[Languages.en.params]
+[Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
@@ -152,7 +152,7 @@ name = "research"
 url = "research"
 
 ################################### Dutch language #####################################
-[Languages.nl.params]
+[Languages.nl]
 languageName = "NL"
 languageCode = "nl"
 contentDir = "content/dutch"

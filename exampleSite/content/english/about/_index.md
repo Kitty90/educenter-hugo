@@ -20,8 +20,6 @@ Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2
 ## PROFESSIONAL EXPERIENCE
 
 2016 - present: Kitty de Vries Language Education  
-* 2024 - present : Freelance Educational Author for Noordhoff
-* 2024 - present : Freelance Concept Author, Educational Author and Test Specialist for Zwijsen 
 * 2022 - present : Freelance Test Developer for Bureau ICE 
 * 2021 - present : Private Teacher of English and Dutch
 * 2022 - 2022 : Freelance Test Specialist and Educational Author for Malmberg
@@ -50,9 +48,6 @@ Kitty speaks Dutch (native), English (C2), German (C1), Spanish (C1), French (B2
 2018 : ToEFL iBT C2 English (score: 117/120)  
 
 ## PORTFOLIO 
-[Stepping Stones - English for Upper Secondary Education (Noordhoff)](https://www.noordhoff.nl/voortgezet-onderwijs/engels/stepping-stones)
-[Open UP - English for Primary Education (Zwijsen)](https://www.zwijsen.nl/lesmethodes/take-it-easy/)  
-[Dutch Reading Tests for International Transition Classes (Bureau ICE)](https://www.bureau-ice.nl/voortgezet-onderwijs/jij-toetsing-training-voor-isk-leerlingen/jij-toetsing-voor-isk/)  
 [English Pupil Monitoring System BES islands (Bureau ICE)](https://www.bureau-ice.nl/lvs-bes-engels/)  
 [Hogeschooltaal Engels - Writing Skills (Noordhoff)](https://www.hogeschooltaal.nl/hogeschooltaal-engels/?lang=en)  
 [All Right! Max Online 3 vwo / gymnasium (Malmberg)](https://www.malmberg.nl/voortgezet-onderwijs/methodes/talen/engels/all-right-onderbouw.htm)   

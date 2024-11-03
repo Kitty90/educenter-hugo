@@ -2,532 +2,638 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dutch/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.kittydevries.com/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/"
+                href="https://www.kittydevries.com/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://www.kittydevries.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dutch/event/</loc>
+    <loc>https://www.kittydevries.com/event/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/event/</loc>
+    <loc>https://www.kittydevries.com/event/event-1/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/event-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/event-1/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/event/</loc>
+    <loc>https://www.kittydevries.com/event/event-2/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/event-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/event-2/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/event/event-1/</loc>
+    <loc>https://www.kittydevries.com/event/event-3/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/event-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/event-3/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/event/event-2/</loc>
+    <loc>https://www.kittydevries.com/event/event-4/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/event-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/event-4/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/event/event-3/</loc>
+    <loc>https://www.kittydevries.com/event/event-5/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/event-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/event-5/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/event/event-4/</loc>
+    <loc>https://www.kittydevries.com/event/event-6/</loc>
     <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/event/event-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/event/event-6/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/event/event-1/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/event/event-2/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/event/event-4/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/event/event-1/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/event/event-2/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/event/event-3/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/event/event-4/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/event/event-5/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/event/event-6/</loc>
-    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/advice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/automation-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.kittydevries.com/tags/advice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/categories/"
+                href="https://www.kittydevries.com/nl/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://www.kittydevries.com/tags/advice/"
                 />
   </url><url>
-    <loc>http://localhost:1313/french/event/event-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/event/event-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/event/event-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/event/event-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/event/event-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/event/event-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/deep-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/blog-post-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/blog-post-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/blog-post-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/blog-post-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/blog/blog-post-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/course/triallesson/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/eco/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/eco-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/education-system/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/english/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/english-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/research-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/research-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/research-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/research-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/research-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/research-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/course/triallesson/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/language-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/notice-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/notice-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/notice-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/notice-4/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/notice-5/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/french/notice/notice-6/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/mathmatics-learning/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/course/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/course/classes/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/course/course-3/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/german/course/course-2/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/course/course-business/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/course/classes/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/course/course-testprep/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/course/classes/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/course/course-testprep/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/dutch/course/course-business/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rules/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.kittydevries.com/tags/automation/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="http://localhost:1313/nl/tags/"
+                href="https://www.kittydevries.com/nl/tags/automation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://www.kittydevries.com/tags/automation/"
                 />
   </url><url>
-    <loc>http://localhost:1313/dutch/notice/notice-1/</loc>
+    <loc>https://www.kittydevries.com/categories/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/categories/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/notice/notice-2/</loc>
+    <loc>https://www.kittydevries.com/course/triallesson/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/course/triallesson/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/course/triallesson/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/notice/notice-3/</loc>
+    <loc>https://www.kittydevries.com/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/research-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/research-1/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/notice/notice-4/</loc>
+    <loc>https://www.kittydevries.com/research/research-2/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/research-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/research-2/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/notice/notice-5/</loc>
+    <loc>https://www.kittydevries.com/research/research-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/research-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/research-3/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/notice/notice-6/</loc>
+    <loc>https://www.kittydevries.com/research/research-4/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/research-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/research-4/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/notice/notice-1/</loc>
+    <loc>https://www.kittydevries.com/research/research-5/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/research-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/research-5/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/notice/notice-2/</loc>
+    <loc>https://www.kittydevries.com/research/research-6/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/research-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/research-6/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/notice/notice-3/</loc>
+    <loc>https://www.kittydevries.com/blog/blog-post-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/blog/blog-post-1/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/notice/notice-4/</loc>
+    <loc>https://www.kittydevries.com/categories/language-learning/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/categories/language-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/categories/language-learning/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/notice/notice-5/</loc>
+    <loc>https://www.kittydevries.com/blog/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/blog/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/notice/notice-6/</loc>
+    <loc>https://www.kittydevries.com/notice/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/notice/notice-1/</loc>
+    <loc>https://www.kittydevries.com/course/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/course/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/course/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/notice/notice-2/</loc>
+    <loc>https://www.kittydevries.com/research/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/research/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/notice/notice-3/</loc>
+    <loc>https://www.kittydevries.com/course/course-business/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/course/course-business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/course/course-business/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/notice/notice-4/</loc>
+    <loc>https://www.kittydevries.com/course/classes/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/course/classes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/course/classes/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/notice/notice-5/</loc>
+    <loc>https://www.kittydevries.com/course/course-testprep/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/course/course-testprep/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/course/course-testprep/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/notice/notice-6/</loc>
+    <loc>https://www.kittydevries.com/tags/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/tags/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/about/</loc>
+    <loc>https://www.kittydevries.com/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/notice-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/notice-1/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/teacher/alex-rook/</loc>
+    <loc>https://www.kittydevries.com/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/notice-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/notice-2/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/teacher/alex-rook/</loc>
+    <loc>https://www.kittydevries.com/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/notice-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/notice-3/"
+                />
   </url><url>
-    <loc>http://localhost:1313/french/teacher/alex-rook/</loc>
+    <loc>https://www.kittydevries.com/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/notice-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/notice-4/"
+                />
   </url><url>
-    <loc>http://localhost:1313/french/scholarship/</loc>
+    <loc>https://www.kittydevries.com/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/notice-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/notice-5/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/scholarship/scholarship-1/</loc>
+    <loc>https://www.kittydevries.com/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/notice/notice-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/notice/notice-6/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/scholarship/scholarship-2/</loc>
+    <loc>https://www.kittydevries.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/about/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/scholarship/scholarship-3/</loc>
+    <loc>https://www.kittydevries.com/teacher/alex-rook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/alex-rook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/alex-rook/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/scholarship/scholarship-1/</loc>
+    <loc>https://www.kittydevries.com/author/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/author/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/scholarship/scholarship-2/</loc>
+    <loc>https://www.kittydevries.com/scholarship/scholarship-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/scholarship/scholarship-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/scholarship/scholarship-1/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/scholarship/scholarship-3/</loc>
+    <loc>https://www.kittydevries.com/scholarship/scholarship-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/scholarship/scholarship-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/scholarship/scholarship-2/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/scholarship/scholarship-1/</loc>
+    <loc>https://www.kittydevries.com/scholarship/scholarship-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/scholarship/scholarship-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/scholarship/scholarship-3/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/scholarship/scholarship-2/</loc>
+    <loc>https://www.kittydevries.com/teacher/clark-malik/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/clark-malik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/clark-malik/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/scholarship/scholarship-3/</loc>
+    <loc>https://www.kittydevries.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/contact/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/teacher/clark-malik/</loc>
+    <loc>https://www.kittydevries.com/teacher/devid-luis/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/devid-luis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/devid-luis/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/teacher/clark-malik/</loc>
+    <loc>https://www.kittydevries.com/teacher/duis-rio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/duis-rio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/duis-rio/"
+                />
   </url><url>
-    <loc>http://localhost:1313/french/teacher/clark-malik/</loc>
+    <loc>https://www.kittydevries.com/teacher/jacke-mastio/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/jacke-mastio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/jacke-mastio/"
+                />
   </url><url>
-    <loc>http://localhost:1313/german/teacher/clark-malik/</loc>
+    <loc>https://www.kittydevries.com/author/john-doe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/author/john-doe/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/contact/</loc>
+    <loc>https://www.kittydevries.com/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/author/mark-dinn/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/contact/</loc>
+    <loc>https://www.kittydevries.com/teacher/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/"
+                />
   </url><url>
-    <loc>http://localhost:1313/dutch/teacher/devid-luis/</loc>
+    <loc>https://www.kittydevries.com/scholarship/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/scholarship/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/scholarship/"
+                />
   </url><url>
-    <loc>http://localhost:1313/english/teacher/devid-luis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/teacher/devid-luis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/teacher/devid-luis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/teacher/duis-rio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/teacher/duis-rio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/teacher/duis-rio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/teacher/duis-rio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/scholarship/scholarship-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/scholarship/scholarship-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/scholarship/scholarship-3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/teacher/jacke-mastio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/teacher/jacke-mastio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/teacher/jacke-mastio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/teacher/jacke-mastio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/author/john-doe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/author/john-doe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/author/john-doe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/author/john-doe/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/teacher/alex-rook/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/author/mark-dinn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/author/mark-dinn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/author/mark-dinn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/author/mark-dinn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/teacher/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/teacher/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/teacher/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/teacher/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/scholarship/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/scholarship/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/scholarship/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dutch/teacher/zim-cook/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/teacher/zim-cook/</loc>
-  </url><url>
-    <loc>http://localhost:1313/french/teacher/zim-cook/</loc>
-  </url><url>
-    <loc>http://localhost:1313/german/teacher/zim-cook/</loc>
+    <loc>https://www.kittydevries.com/teacher/zim-cook/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.kittydevries.com/nl/teacher/zim-cook/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.kittydevries.com/teacher/zim-cook/"
+                />
   </url>
 </urlset>

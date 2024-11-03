@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Kitty on Kitty de Vries Language Education</title>
-    <link>http://localhost:1313/contact/</link>
+    <link>https://www.kittydevries.com/contact/</link>
     <description>Recent content in Contact Kitty on Kitty de Vries Language Education</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright><atom:link href="https://www.kittydevries.com/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

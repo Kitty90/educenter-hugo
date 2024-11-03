@@ -2,40 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online English or Dutch Classes on Kitty de Vries Language Education</title>
-    <link>http://localhost:1313/course/</link>
+    <link>https://www.kittydevries.com/course/</link>
     <description>Recent content in Online English or Dutch Classes on Kitty de Vries Language Education</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.kittydevries.com/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DISCOUNTED Trial Lesson</title>
-      <link>http://localhost:1313/course/triallesson/</link>
+      <link>https://www.kittydevries.com/course/triallesson/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/triallesson/</guid>
-      <description>&lt;h3 id=&#34;about-trial-lessons&#34;&gt;About Trial Lessons:&lt;/h3&gt;&#xA;&lt;p&gt;Book a trial lesson with me to find out how I can help you achieve your language goals! In the 30-minute lesson we will:&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/course/triallesson/</guid>
+      <description>About Trial Lessons: Book a trial lesson with me to find out how I can help you achieve your language goals!</description>
     </item>
+    
     <item>
       <title>Private: Academic or Business Communication</title>
-      <link>http://localhost:1313/course/course-business/</link>
+      <link>https://www.kittydevries.com/course/course-business/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-business/</guid>
-      <description>&lt;h3 id=&#34;about-the-classes&#34;&gt;About the Classes:&lt;/h3&gt;&#xA;&lt;p&gt;These classes are suited to learners with a low intermediate (B1) to advanced (C1) proficiency level. The lesson content depends on your interests, language level and needs. In these classes, you will study and practice language use in realistic workplace contexts and for a variety of professional purposes, such as:&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/course/course-business/</guid>
+      <description>About the Classes: These classes are suited to learners with a low intermediate (B1) to advanced (C1) proficiency level.</description>
     </item>
+    
     <item>
       <title>Private: General Language Skills</title>
-      <link>http://localhost:1313/course/classes/</link>
+      <link>https://www.kittydevries.com/course/classes/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/classes/</guid>
-      <description>&lt;h3 id=&#34;about-private-classes&#34;&gt;About Private Classes:&lt;/h3&gt;&#xA;&lt;p&gt;If you are looking for maximum flexibility and personalised instruction tailored to your specfic needs, then private lessons are the best option for you. Private classes are tailor made; your language learning journey is designed and planned with your interests and calendar in mind.&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/course/classes/</guid>
+      <description>About Private Classes: If you are looking for maximum flexibility and personalised instruction tailored to your specfic needs, then private lessons are the best option for you.</description>
     </item>
+    
     <item>
       <title>Private: Test Preparation</title>
-      <link>http://localhost:1313/course/course-testprep/</link>
+      <link>https://www.kittydevries.com/course/course-testprep/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/course/course-testprep/</guid>
-      <description>&lt;h3 id=&#34;about-test-preparation&#34;&gt;About Test Preparation:&lt;/h3&gt;&#xA;&lt;p&gt;Are you planning to take an official language exam? These bespoke classes are designed specifically for test preparation. I offer language guidance and lesson content tailored to your individual needs. In these lessons, you will familiarize yourself with the necessary strategies, contexts and skills that are tested in the exam.&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/course/course-testprep/</guid>
+      <description>About Test Preparation: Are you planning to take an official language exam?</description>
     </item>
+    
   </channel>
 </rss>

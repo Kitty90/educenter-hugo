@@ -2,40 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online Engelse of Nederlandse taallessen on Kitty de Vries Language Education</title>
-    <link>http://localhost:1313/nl/course/</link>
+    <link>https://www.kittydevries.com/nl/course/</link>
     <description>Recent content in Online Engelse of Nederlandse taallessen on Kitty de Vries Language Education</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/nl/course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://www.kittydevries.com/nl/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KORTING Proefles</title>
-      <link>http://localhost:1313/nl/course/triallesson/</link>
+      <link>https://www.kittydevries.com/nl/course/triallesson/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/nl/course/triallesson/</guid>
-      <description>&lt;h3 id=&#34;over-proeflessen&#34;&gt;Over Proeflessen:&lt;/h3&gt;&#xA;&lt;p&gt;Een proefles duurt 30 minuten en is de ideale manier om te ontdekken hoe ik je kan helpen en of mijn onderwijsstijl bij je past. In de proefles zullen we:&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/nl/course/triallesson/</guid>
+      <description>Over Proeflessen: Een proefles duurt 30 minuten en is de ideale manier om te ontdekken hoe ik je kan helpen en of mijn onderwijsstijl bij je past.</description>
     </item>
+    
     <item>
       <title>Privé: Algemene Taalvaardigheid (A0-C2)</title>
-      <link>http://localhost:1313/nl/course/classes/</link>
+      <link>https://www.kittydevries.com/nl/course/classes/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/nl/course/classes/</guid>
-      <description>&lt;h3 id=&#34;waarom-privéles&#34;&gt;Waarom privéles?&lt;/h3&gt;&#xA;&lt;p&gt;Cursisten die privélessen volgen, verbeteren vaak sneller hun taalvaardigheid dan cursisten in een groep. Vaak ligt de klassegrootte bij een klassikale groepscursus rond de 15 cursisten. Daardoor moet de docent zijn aandacht verdelen en is de spreekgelegenheid per cursist per les beperkt. Bovendien worden groepscursussen vaak gepland op een vaste dag en een vast tijdstip. Het grote voordeel van privélessen is dat je individuele aandacht, maximale spreekgelegenheid en flexibiliteit krijgt.&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/nl/course/classes/</guid>
+      <description>Waarom privéles? Cursisten die privélessen volgen, verbeteren vaak sneller hun taalvaardigheid dan cursisten in een groep.</description>
     </item>
+    
     <item>
       <title>Privé: Examenvoorbereiding</title>
-      <link>http://localhost:1313/nl/course/course-testprep/</link>
+      <link>https://www.kittydevries.com/nl/course/course-testprep/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/nl/course/course-testprep/</guid>
-      <description>&lt;h3 id=&#34;over-examenvoorbereiding&#34;&gt;Over examenvoorbereiding:&lt;/h3&gt;&#xA;&lt;p&gt;Wilt u graag een officiële taaltoets afleggen om uw taalvaardigheid aan te kunnen tonen met een certificaat? Ik bied examenvoorbereidingslessen op maat. In deze lessen maakt u kennis met de vorm en inhoud van de officiële taaltoets die u wilt halen. Ik kan u helpen bij het voorbereiden voor de volgende examens:&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/nl/course/course-testprep/</guid>
+      <description>Over examenvoorbereiding: Wilt u graag een officiële taaltoets afleggen om uw taalvaardigheid aan te kunnen tonen met een certificaat?</description>
     </item>
+    
     <item>
       <title>Privé: Zakelijke en Academische Communicatie</title>
-      <link>http://localhost:1313/nl/course/course-business/</link>
+      <link>https://www.kittydevries.com/nl/course/course-business/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      <guid>http://localhost:1313/nl/course/course-business/</guid>
-      <description>&lt;h3 id=&#34;zakelijke-communicatielessen&#34;&gt;Zakelijke communicatielessen:&lt;/h3&gt;&#xA;&lt;p&gt;Deze lessen zijn geschikt voor cursisten met een gemiddeld (B1) tot en met gevorderd (C1) taalniveau. De lesstof wordt afgestemd op de interesses, het taal niveau en de leerbehoeftes van de cursist. Tijdens de les wordt middels praktische en realistische oefeningen zakelijk en academisch taalgebruik geoefend. Scenarios die aan bod kunnen komen zijn bijvoorbeeld:&lt;/p&gt;</description>
+      
+      <guid>https://www.kittydevries.com/nl/course/course-business/</guid>
+      <description>Zakelijke communicatielessen: Deze lessen zijn geschikt voor cursisten met een gemiddeld (B1) tot en met gevorderd (C1) taalniveau.</description>
     </item>
+    
   </channel>
 </rss>
